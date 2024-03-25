@@ -2,10 +2,6 @@
 
 ## Presentación del equipo
 
-### nombre y apellido
-Imagen + descrpiccion
-
-
 ### Camila Escobar
 Soy estudiante de 4to ciclo de Ingeniería Biomédica. Me interesa la rama de señales e imagenes biomedicas. Dentro de este proyecto asumire el rool de coordinadora. Mis expectativas del curso se centran en aprender las bases para la creación de un proyecto innovador y funcional.
 
