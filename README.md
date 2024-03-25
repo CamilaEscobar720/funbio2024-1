@@ -1,4 +1,4 @@
-# funbio2024-1
+# Fundamentos de biodiseño
 
 ## Presentación del equipo
 
