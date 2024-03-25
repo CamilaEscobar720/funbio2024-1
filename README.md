@@ -10,7 +10,8 @@ Imagen + descrpiccion
 ### Camila Escobar
 Soy estudiante de 4to ciclo de Ingeniería Biomédica. Me interesa la rama de señales e imagenes biomedicas. Dentro de este proyecto asumire el rool de coordinadora.
 ### Andre Quispe
-Soy estudiante de 4to ciclo de Ingenieria Biomédica. Estoy interesado en la Biomecanica y la Ingenieria de Tejidos. Mi percepción acerca del curso es con el fin de comproterme más con mi carrera y así mismo descubrir nuevas oportunidades. Durante la realizacion del proyecto, asumiré el rol de prototipado.
+Soy estudiante de 4to ciclo de Ingenieria Biomédica. Estoy interesado en la Biomecanica y la Ingenieria de Tejidos. Mi interes con el curso es para descubrir nuevas oportunidades y así comprometerme más con mi carrera. Durante la realizacion del proyecto, asumiré el rol de prototipado.
+
 ![Andre Quispe](https://media.licdn.com/dms/image/D4E03AQGU0uCO-E4upA/profile-displayphoto-shrink_200_200/0/1689786921988?e=2147483647&v=beta&t=1Izms1NSGYTACb4OmtKLDbmQpP1YSCKllypJzaf61_8)
 ### Diego Jurado(Encargado del Github)
 Soy estudiante de 5to ciclo de Ingeniería Biomédica. Me interesa la rehabilitación y Biomecánica. Las expectativas del curso es crear con modelado 3D un invento funcional con circuitos y todo.
