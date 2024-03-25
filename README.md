@@ -8,7 +8,8 @@ Imagen + descrpiccion
 ![Perrito](https://tvazteca.brightspotcdn.com/dims4/default/9a703df/2147483647/strip/true/crop/1920x1080+0+0/resize/928x522!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F38%2Fe6%2F7b33cdd042d5a378d56a7f81fa73%2Fperritos-primeros-auxilios.jpg)
 
 ### Camila Escobar
-Soy estudiante de 4to ciclo de Ingeniería Biomédica. Me interesa la rama de señales e imagenes biomedicas. Dentro de este proyecto asumire el rool de coordinadora.
+Soy estudiante de 4to ciclo de Ingeniería Biomédica. Me interesa la rama de señales e imagenes biomedicas. Dentro de este proyecto asumire el rool de coordinadora. Mis expectativas del curso se centran en aprender las bases para la creación de un proyecto innovador y funcional.
+![Foto Camila](blob:https://web.whatsapp.com/12c0656c-7169-4a1a-bdf9-ee72ce7dfcb1.jpg)
 ### Andre Quispe
 Soy estudiante de 4to ciclo de Ingenieria Biomédica. Estoy interesado en la Biomecanica y la Ingenieria de Tejidos. Mi interes con el curso es para descubrir nuevas oportunidades y así comprometerme más con mi carrera. Durante la realizacion del proyecto, asumiré el rol de prototipado.
 
