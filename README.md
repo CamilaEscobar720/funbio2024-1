@@ -9,7 +9,7 @@ Imagen + descrpiccion
 
 ### Camila Escobar
 Soy estudiante de 4to ciclo de Ingeniería Biomédica. Me interesa la rama de señales e imagenes biomedicas. Dentro de este proyecto asumire el rool de coordinadora. Mis expectativas del curso se centran en aprender las bases para la creación de un proyecto innovador y funcional.
-[Whats-App-Image-2024-03-24-at-8-02-55-PM.jpg](https://postimg.cc/kBD2W7Wz))
+![Camila Escobar](https://postimg.cc/kBD2W7Wz))
 ### Andre Quispe
 Soy estudiante de 4to ciclo de Ingenieria Biomédica. Estoy interesado en la Biomecanica y la Ingenieria de Tejidos. Mi interes con el curso es para descubrir nuevas oportunidades y así comprometerme más con mi carrera. Durante la realizacion del proyecto, asumiré el rol de diseño.
 
