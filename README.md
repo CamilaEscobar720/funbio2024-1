@@ -1,4 +1,4 @@
-# Fundamentos de biodiseño
+# Fundamentos de biodiseño: Equipo 01
 
 ## Presentación del equipo
 
