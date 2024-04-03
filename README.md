@@ -16,3 +16,8 @@ Soy estudiante de 4to ciclo de Ingenieria Biomédica. Estoy interesado en la Bio
 ![Andre Quispe](https://media.licdn.com/dms/image/D4E03AQGU0uCO-E4upA/profile-displayphoto-shrink_200_200/0/1689786921988?e=2147483647&v=beta&t=1Izms1NSGYTACb4OmtKLDbmQpP1YSCKllypJzaf61_8)
 ### Diego Jurado(Encargado del Github)
 Soy estudiante de 5to ciclo de Ingeniería Biomédica. Me interesa la rehabilitación y Biomecánica. Las expectativas del curso es crear con modelado 3D un invento funcional con circuitos y todo.
+
+### Adriano Estrada 
+Me interesa la rama de Procesamiento de Señales e Imágenes, me gusta la investigación biomédica y la ciencia detrás de los dispositivos médicos sofisticados. Esperoaprender a desarrolla mi capacidad como ingeniero en este curso, sobre todo espero aprender mucho de los profesores y nutrirme con sus experiencias. Estaré a cargo de los circuitos eléctricos dentro del proyecto.
+
+[![Adriano Estrada-Git-Hub.jpg](https://i.postimg.cc/437hmQMg/Foto-Personal-Git-Hub.jpg)](https://postimg.cc/67KQPntj)
