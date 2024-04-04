@@ -17,6 +17,8 @@ Soy estudiante de 4to ciclo de Ingenieria Biomédica. Estoy interesado en la Bio
 ### Diego Jurado(Encargado del Github)
 Soy estudiante de 5to ciclo de Ingeniería Biomédica. Me interesa la rehabilitación y Biomecánica. Las expectativas del curso es crear con modelado 3D un invento funcional con circuitos y todo.
 
+[![Diego-Jurado.jpg](https://i.postimg.cc/3wJc65YS/Diego-Jurado.jpg)](https://postimg.cc/mPJjzncC)
+
 ### Adriano Estrada 
 Me interesa la rama de Procesamiento de Señales e Imágenes, me gusta la investigación biomédica y la ciencia detrás de los dispositivos médicos sofisticados. Esperoaprender a desarrolla mi capacidad como ingeniero en este curso, sobre todo espero aprender mucho de los profesores y nutrirme con sus experiencias. Estaré a cargo de los circuitos eléctricos dentro del proyecto.
 
