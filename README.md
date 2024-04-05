@@ -27,6 +27,6 @@ Me interesa la rama de Procesamiento de Señales e Imágenes, me gusta la invest
 [![Adriano Estrada-Git-Hub.jpg](https://i.postimg.cc/437hmQMg/Foto-Personal-Git-Hub.jpg)](https://postimg.cc/67KQPntj)
 
 ### Ariana Castañeda
-Soy estudiante de 4to ciclo de Ingeniería Biomédica. Las expectativas del curso es aprender más sobre los circuitos y modelado 3D, asumiré el rol de programación y prototipado.
+Soy estudiante de 4to ciclo de Ingeniería Biomédica. Las expectativas del curso es aprender más sobre los circuitos y modelado 3D, asumiré el rol de impresión y prototipado.
 
 [![Ariana-Casta-eda.jpg](https://i.postimg.cc/SNgLKGRn/Ariana-Casta-eda.jpg)](https://postimg.cc/GHsT7GkR)
