@@ -16,8 +16,8 @@ Soy estudiante de Ingeniería Biomédica. Me interesa la rama de Tejidos. Mis ex
 Soy estudiante de 4to ciclo de Ingenieria Biomédica. Estoy interesado en la Biomecanica y la Ingenieria de Tejidos. Mi interes con el curso es para descubrir nuevas oportunidades y así comprometerme más con mi carrera. Durante la realizacion del proyecto, asumiré el rol de diseño.
 
 ![Andre Quispe](https://media.licdn.com/dms/image/D4E03AQGU0uCO-E4upA/profile-displayphoto-shrink_200_200/0/1689786921988?e=2147483647&v=beta&t=1Izms1NSGYTACb4OmtKLDbmQpP1YSCKllypJzaf61_8)
-### Diego Jurado(Encargado del Github)
-Soy estudiante de 5to ciclo de Ingeniería Biomédica. Me interesa la rehabilitación y Biomecánica. Las expectativas del curso es crear con modelado 3D un invento funcional con circuitos y todo.
+### Diego Jurado
+Soy estudiante de 5to ciclo de Ingeniería Biomédica. Me interesa la rehabilitación y Biomecánica. Las expectativas del curso es crear con modelado 3D un invento funcional con circuitos y todo.Estaré a cargo de la progamación dentro del curso.
 
 [![Diego-Jurado.jpg](https://i.postimg.cc/3wJc65YS/Diego-Jurado.jpg)](https://postimg.cc/mPJjzncC)
 
@@ -25,3 +25,8 @@ Soy estudiante de 5to ciclo de Ingeniería Biomédica. Me interesa la rehabilita
 Me interesa la rama de Procesamiento de Señales e Imágenes, me gusta la investigación biomédica y la ciencia detrás de los dispositivos médicos sofisticados. Esperoaprender a desarrolla mi capacidad como ingeniero en este curso, sobre todo espero aprender mucho de los profesores y nutrirme con sus experiencias. Estaré a cargo de los circuitos eléctricos dentro del proyecto.
 
 [![Adriano Estrada-Git-Hub.jpg](https://i.postimg.cc/437hmQMg/Foto-Personal-Git-Hub.jpg)](https://postimg.cc/67KQPntj)
+
+### Ariana Castañeda
+Soy estudiante de 4to ciclo de Ingeniería Biomédica. Las expectativas del curso es aprender más sobre los circuitos y modelado 3D, asumiré el rol de programación y prototipado.
+
+[![Ariana-Casta-eda.jpg](https://i.postimg.cc/SNgLKGRn/Ariana-Casta-eda.jpg)](https://postimg.cc/GHsT7GkR)
