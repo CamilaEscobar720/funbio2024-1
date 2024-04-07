@@ -39,3 +39,7 @@ Dentro de estudios fisiopatológicos es necesario analizar muestras biológicas.
 ## Definición de la problemática
 
 Los microscopios que varíen la temperatura de la muestra a analizar que existen en el mercado son costosos y no son especializados en analizar muestras para estudios fisiopatológicos.
+
+## Nuestra propuesta de solución
+
+
