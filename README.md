@@ -32,3 +32,10 @@ Me interesa la rama de Procesamiento de Señales e Imágenes, me gusta la invest
 Soy estudiante de 4to ciclo de Ingeniería Biomédica. Las expectativas del curso es aprender más sobre los circuitos y modelado 3D, asumiré el rol de impresión y prototipado.
 
 [![Ariana-Casta-eda.jpg](https://i.postimg.cc/SNgLKGRn/Ariana-Casta-eda.jpg)](https://postimg.cc/GHsT7GkR)
+
+#Introducción
+Dentro de estudios fisiopatológicos es necesario analizar muestras biológicas. Para el análisis de muestras de laboratorio con un microscopio es fundamental que estas se encuentren en las condiciones óptimas dependientes de cada uno de ellas para asegurar la falta de sesgos dentro de la investigación científica. Estas condiciones se basan principalmente en la temperatura, valor de pH y presión atmosférica. Asimismo, es de gran valor estudiar los cambios fisiológicos de las muestras durante una variación de temperatura del ambiente en el que se encuentran. Actualmente la creación de microscopios que regulen la temperatura de las muestras es escasa, asimismo, se vende en el mercado con un gran valor monetario. 
+
+##Definición de la problemática
+
+Los microscopios que varíen la temperatura de la muestra a analizar que existen en el mercado son costosos y no son especializados en analizar muestras para estudios fisiopatológicos.
