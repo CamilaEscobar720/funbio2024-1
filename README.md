@@ -3,9 +3,9 @@
 ## Presentación del equipo
 
 ### Camila Escobar (Coordinadora general del equipo)
-Ciclo universitario: 4to
-Rama de interés: Señales e imágenes biomédicas
-Expectativas del curso: Aprender las bases para la creación de un proyecto innovador y funcional. Aplicar un proceso de innovación para implementar una proppuesta de solución dentro del campo de la fisiopatología.
+- Ciclo universitario: 4to
+- Rama de interés: Señales e imágenes biomédicas
+- Expectativas del curso: Aprender las bases para la creación de un proyecto innovador y funcional. Aplicar un proceso de innovación para implementar una proppuesta de solución dentro del campo de la fisiopatología.
 
 [![camila-escobar.jpg](https://i.postimg.cc/PxC4z8Wf/camila-escobar.jpg)](https://postimg.cc/wydL9M4n)
 
@@ -33,9 +33,9 @@ Soy estudiante de 4to ciclo de Ingeniería Biomédica. Las expectativas del curs
 
 [![Ariana-Casta-eda.jpg](https://i.postimg.cc/SNgLKGRn/Ariana-Casta-eda.jpg)](https://postimg.cc/GHsT7GkR)
 
-#Introducción
+# Introducción
 Dentro de estudios fisiopatológicos es necesario analizar muestras biológicas. Para el análisis de muestras de laboratorio con un microscopio es fundamental que estas se encuentren en las condiciones óptimas dependientes de cada uno de ellas para asegurar la falta de sesgos dentro de la investigación científica. Estas condiciones se basan principalmente en la temperatura, valor de pH y presión atmosférica. Asimismo, es de gran valor estudiar los cambios fisiológicos de las muestras durante una variación de temperatura del ambiente en el que se encuentran. Actualmente la creación de microscopios que regulen la temperatura de las muestras es escasa, asimismo, se vende en el mercado con un gran valor monetario. 
 
-##Definición de la problemática
+## Definición de la problemática
 
 Los microscopios que varíen la temperatura de la muestra a analizar que existen en el mercado son costosos y no son especializados en analizar muestras para estudios fisiopatológicos.
