@@ -2,8 +2,10 @@
 
 ## Presentación del equipo
 
-### Camila Escobar (Coordinadora del equipo)
-Soy estudiante de 4to ciclo de Ingeniería Biomédica. Me interesa la rama de señales e imagenes biomedicas. Dentro de este proyecto asumire el rool de coordinadora. Mis expectativas del curso se centran en aprender las bases para la creación de un proyecto innovador y funcional.
+### Camila Escobar (Coordinadora general del equipo)
+Ciclo universitario: 4to
+Rama de interés: Señales e imágenes biomédicas
+Expectativas del curso: Aprender las bases para la creación de un proyecto innovador y funcional. Aplicar un proceso de innovación para implementar una proppuesta de solución dentro del campo de la fisiopatología.
 
 [![camila-escobar.jpg](https://i.postimg.cc/PxC4z8Wf/camila-escobar.jpg)](https://postimg.cc/wydL9M4n)
 
