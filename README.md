@@ -42,4 +42,5 @@ Los microscopios que varíen la temperatura de la muestra a analizar que existen
 
 ## Nuestra propuesta de solución
 
+Nuestra propuesta de solución consistira en implementar un microscopio que incluya un sistema de termorregulación de bajo costo basandonos en microscopios de código abierto.
 
