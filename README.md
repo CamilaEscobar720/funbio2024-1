@@ -6,7 +6,11 @@
 ![pucp_upch](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/11b298ef-4331-4d34-9643-bca3bb04df60)
 
 ---
-# Fundamentos de biodiseño: Equipo 01
+# Fundamentos de Biodiseño: Equipo 01
+
+¡Bienvenidos al Repositorio del equipo 01!
+
+Nuestra línea de Investigación es en el Campo Biotecnológico 
 
 ## Presentación del equipo
 
