@@ -44,3 +44,10 @@ Los microscopios que varíen la temperatura de la muestra a analizar que existen
 
 Nuestra propuesta de solución consistira en implementar un microscopio que incluya un sistema de termorregulación de bajo costo basandonos en microscopios de código abierto.
 
+## Estado del arte Científico
+
+La comunidad científica ha realizado aportes previamente sobre nuestro tema de interés. De hecho han desarrollado tecnología open-hardware sobre un prototipo de "Microscopio con Sistema de Termorregulación".
+Además es importante definir para nuestro proyecto, el campo de aplicación al que queremos llegar; si bien los equipos de investigación científica ya cuentan con una gran presencia en las industrias principales, su valor en el mercado naturalmente corresponde a sus características técnicas y va de la mano con el rendimiento necesario para determinados sectores.
+
+Conociendo toda esa información, es posible profundizar sobre como es tratado el desarrollo de nuevas tecnologías open-hardware. Es de saber que un microscopio al dia de hoy está presente en una gran variedad de sectores, dentro de ellos, la investigación científica cada vez requiere de nuevas técnicas de estudio específicas para su objetivo. Por ejemplo, en un estudio para hacer el seguimiento del comportamiento de la larva de un pez cebra, se apoya de la naturaleza fluorescente de la larva (proteina GFP) para identificarla rápidamente mediante el uso de un filtro de emisión de paso corto.
+Así como este ejemplo, existen avances respecto al desarrollo de un microscopio termorregulado con diferentes propósitos de investigación, esto nos brinda la oportunidad de explorar un campo al que le sea beneficioso y genere un impacto positivo el uso de una alternativa mucho más asequible y abierta a oportunidades de mejora por parte de la comunidad científica. 
