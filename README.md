@@ -27,9 +27,9 @@ Nuestra línea de Investigación es en el Campo Biotecnológico
 Soy estudiante de Ingeniería Biomédica. Me interesa la rama de Tejidos. Mis expectativas es poder aprender temas que me ayuden a lo largo de la carrera y tener un mayor panorama. Dentro del proyecto tomaré el rol de coordinador de modelado 3D.
 
 <p align="center">
-  <img src="(https://github.com/CamilaEscobar720/funbio2024-1/assets/164808980/7a412439-e82c-473e-ab08-b02f13248721)>
+  <img src="(https://i.postimg.cc/bwPgCGpF/Carla.jpg)>
 
-![Carla-Medina](https://github.com/CamilaEscobar720/funbio2024-1/assets/164808980/7a412439-e82c-473e-ab08-b02f13248721)
+[![Carla.jpg](https://i.postimg.cc/bwPgCGpF/Carla.jpg)](https://postimg.cc/3dL2Wxyg)
 
 ### Andre Quispe (Encargado de la conceptualización de ideas)
 Soy estudiante de 4to ciclo de Ingenieria Biomédica. Estoy interesado en la Biomecanica y la Ingenieria de Tejidos. Mi interes con el curso es para descubrir nuevas oportunidades y así comprometerme más con mi carrera. Durante la realizacion del proyecto, asumiré el rol de conceptualizar las ideas.
