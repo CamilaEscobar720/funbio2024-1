@@ -62,9 +62,9 @@ El uso de microscopios con control de temperatura permite a los investigadores s
 Estos son solo algunos ejemplos y muchas otras marcas también ofrecen microscopios con capacidades avanzadas de control de temperatura. Cada marca y modelo puede tener características específicas que se adaptan a diferentes aplicaciones y necesidades de investigación.
 | Microscopio | Descripción |
 |-------------|-------------|
-| Axio Observer | pueden equiparse con sistemas de control de temperatura avanzados para estudios de células vivas y otras aplicaciones sensibles a la temperatura. [5]|
-| Nikon Eclipse Ti2 | ofrece capacidades de control de temperatura y otras características avanzadas para aplicaciones de investigación biológica y de materiales. [6]|
-| Olympus IX83 | se equipa con sistemas de control de temperatura precisos para estudios en células vivas y otras aplicaciones de investigación. [7] |
+| Axio Observer | Pueden equiparse con sistemas de control de temperatura avanzados para estudios de células vivas y otras aplicaciones sensibles a la temperatura. [5]|
+| Nikon Eclipse Ti2 | Ofrece capacidades de control de temperatura y otras características avanzadas para aplicaciones de investigación biológica y de materiales. [6]|
+| Olympus IX83 | Se equipa con sistemas de control de temperatura precisos para estudios en células vivas y otras aplicaciones de investigación. [7] |
 
 ## Referencias bibliográficas
 [1] A. M. Chagas, L. L. Prieto-Godino, A. B. Arrenberg, and T. Baden, "The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behavior of zebrafish, Drosophila, and Caenorhabditis elegans," PLoS Biol., vol. 15, no. 7, pp. e2002702, Jul. 2017.
