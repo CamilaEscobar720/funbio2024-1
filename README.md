@@ -75,3 +75,5 @@ Los investigadores científicos cuentan con poca información y procesos limitan
 [3] G. Nuovo et al., "Diagnostic pathology of Alzheimer's disease from routine microscopy to immunohistochemistry and experimental correlations," Ann. Diagn. Pathol., vol. 28, pp. 24-29, 2017.
 
 [4] Vera HA, Chong QJE, Leija SL, et al. Hipertermia electromagnética, una alternativa para el tratamiento del cáncer: antecedentes, aspectos físicos y biológicos. Rev Mex Ing Biomed. 2001;22(2):78-88.
+
+[5] Philipp Wachter Greiner,Martin Gleisner  , "Plastic Labware for Optimal Results in Modern Life Science Microscopy Using ZEISS Axio Observer and ZEISS Celldiscoverer 7," greiner BIO-one,, Feb 2022.
