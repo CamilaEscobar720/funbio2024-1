@@ -79,4 +79,4 @@ Los investigadores científicos cuentan con poca información y procesos limitan
 
 [5] Philipp Wachter Greiner,Martin Gleisner  , "Plastic Labware for Optimal Results in Modern Life Science Microscopy Using ZEISS Axio Observer and ZEISS Celldiscoverer 7," greiner BIO-one, Feb 2022.
 
-[6] Eclipse Ti2, "Nikon Corporation," Nikon, Tokio, Japan, , 2023.
+[6] Eclipse Ti2Inverted Research Microscope - spread , "Nikon Corporation," Nikon,Code No. 2CE-MPOH-2, Tokio, Japan, 2023
