@@ -13,58 +13,26 @@ Nuestra línea de Investigación es en el Campo Biotecnológico
 
 ## Presentación del equipo
 
-### Camila Escobar (Coordinadora general del equipo)
-- Ciclo universitario: 4to
-- Rama de interés: Señales e imágenes biomédicas
-- Expectativas del curso: Aprender las bases para la creación de un proyecto innovador y funcional. Aplicar un proceso de innovación para implementar una proppuesta de solución dentro del campo de la fisiopatología.
+| Camila Escobar ***(Coordinadora general del equipo)***| Carla Medina ***(Coordinadora del modelado 3D)*** | Andres Quispe ***(Encargado de la conceptualización de ideas)*** |
+|-------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------|
+|  <p align="center">[![camila-escobar.jpg](https://i.postimg.cc/PxC4z8Wf/camila-escobar.jpg)](https://postimg.cc/wydL9M4n)  |  <p align="center">[![Carla.jpg](https://i.postimg.cc/bwPgCGpF/Carla.jpg)](https://postimg.cc/3dL2Wxyg) |  <p align="center">"[![Andre-quispe.jpg](https://i.postimg.cc/HnP81hyL/Andre-quispe.jpg)](https://postimg.cc/sG7gpKKF) |
+| Ciclo universitario: 4to | Ciclo universitario: 4to | Ciclo universitario: 4to | 
+| Rama de interés: Señales e imágenes biomédicas | Rama de interés: Ingeniería de Tejidos | Rama de interés: Biomecánica y la Ingeniería de Tejidos |
+| Expectativas del curso: Aprender las bases para la creación de un proyecto innovador y funcional. Aplicar un proceso de innovación para implementar una proppuesta de solución dentro del campo de la fisiopatología.| Expectativas del curso: es poder aprender temas que me ayuden a lo largo de la carrera y tener un mayor panorama. | Expectativas del curso: es para descubrir nuevas oportunidades y así comprometerme más con mi carrera. Durante la realizacion del proyecto, asumiré el rol de conceptualizar las ideas. |
 
-<p align="center">
-  <img src="(https://i.postimg.cc/PxC4z8Wf/camila-escobar.jpg)>
 
-[![camila-escobar.jpg](https://i.postimg.cc/PxC4z8Wf/camila-escobar.jpg)](https://postimg.cc/wydL9M4n)
+| Diego Jurado ***(Encargado de la programación del prototipo)*** | Adriano Estrada ***(Encargado del diseño electrónico)*** | Ariana Castañeda ***(Coordinadora de manufactura digital)*** | 
+|-----------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------|
+| <p align="center">[![Diego-Jurado.jpg](https://i.postimg.cc/3wJc65YS/Diego-Jurado.jpg)](https://postimg.cc/mPJjzncC) | <p align="center">[![Adriano Estrada-Git-Hub.jpg](https://i.postimg.cc/437hmQMg/Foto-Personal-Git-Hub.jpg)](https://postimg.cc/67KQPntj) | <p align="center">[![Ariana-Casta-eda.jpg](https://i.postimg.cc/SNgLKGRn/Ariana-Casta-eda.jpg)](https://postimg.cc/GHsT7GkR) |
+|  5to Ciclo universitario | 4to Ciclo universitario | 4to Ciclo Universitario | 
+| Hobbies: juego LoL(trato de hacer streams del juego), de vez cuando salgo a correr(estoy correr una carrera 10km) | Hobbie: Practico off-road y tengo un beagle | Hobbie: jugar Basket, Bailar pop moderno y reggaeton
+| Rama de interes: Rehabilitación y Biomecánica | Rama de interés: Procesamiento de Señales e Imágenes | Rama de interés: Ingeniería de Tejidos y Señales e Imágenes | 
+| Expectativa del curso: Crear ,con modelado 3D, un prototipo funcional que incluya circuitos. | Expectativas del curso: Espero aprender a desarrollar mi capacidad como ingeniero en este curso, sobre todo espero aprender mucho de los profesores y nutrirme con sus experiencias. | Expectativas del curso: aprender más sobre los circuitos y modelado 3D
 
-### Carla Medina (Coordinadora del modelado 3D)
-Soy estudiante de Ingeniería Biomédica. Me interesa la rama de Tejidos. Mis expectativas es poder aprender temas que me ayuden a lo largo de la carrera y tener un mayor panorama. Dentro del proyecto tomaré el rol de coordinador de modelado 3D.
 
-<p align="center">
-  <img src="(https://i.postimg.cc/bwPgCGpF/Carla.jpg)>
 
-[![Carla.jpg](https://i.postimg.cc/bwPgCGpF/Carla.jpg)](https://postimg.cc/3dL2Wxyg)
 
-### Andre Quispe (Encargado de la conceptualización de ideas)
-Soy estudiante de 4to ciclo de Ingenieria Biomédica. Estoy interesado en la Biomecanica y la Ingenieria de Tejidos. Mi interes con el curso es para descubrir nuevas oportunidades y así comprometerme más con mi carrera. Durante la realizacion del proyecto, asumiré el rol de conceptualizar las ideas.
 
-<p align="center">
-  <img src="(https://i.postimg.cc/HnP81hyL/Andre-quispe.jpg)>
-
-[![Andre-quispe.jpg](https://i.postimg.cc/HnP81hyL/Andre-quispe.jpg)](https://postimg.cc/sG7gpKKF)
-
-### Diego Jurado ***(Encargado de la programación del prototipo)***
-- 5to Ciclo universitario
-- Hobbies: juego LoL(trato de hacer streams del juego), de vez cuando salgo a correr(estoy correr una carrera 10km)
-- Rama de interes: Rehabilitación y Biomecánica
-- Expectativa del curso: Crear ,con modelado 3D, un prototipo funcional que incluya circuitos.
-
-<p align="center">
-  <img src="(https://i.postimg.cc/3wJc65YS/Diego-Jurado.jpg)>
-    
-[![Diego-Jurado.jpg](https://i.postimg.cc/3wJc65YS/Diego-Jurado.jpg)](https://postimg.cc/mPJjzncC)
-
-### Adriano Estrada (Encargado del diseño electrónico)
-Me interesa la rama de Procesamiento de Señales e Imágenes, me gusta la investigación biomédica y la ciencia detrás de los dispositivos médicos sofisticados. Espero aprender a desarrollar mi capacidad como ingeniero en este curso, sobre todo espero aprender mucho de los profesores y nutrirme con sus experiencias. Estaré a cargo del diseño electrónico dentro del proyecto. Soy de Huacho, practico off-road y tengo un beagle.
-
-<p align="center">
-  <img src="(https://i.postimg.cc/437hmQMg/Foto-Personal-Git-Hub.jpg)>
-
-[![Adriano Estrada-Git-Hub.jpg](https://i.postimg.cc/437hmQMg/Foto-Personal-Git-Hub.jpg)](https://postimg.cc/67KQPntj)
-
-### Ariana Castañeda (Coordinadora de la manufactura digital)
-Soy estudiante de 4to ciclo de Ingeniería Biomédica. Las expectativas del curso es aprender más sobre los circuitos y modelado 3D, asumiré el rol de impresión y prototipado.
-
-<p align="center">
-  <img src="(https://i.postimg.cc/SNgLKGRn/Ariana-Casta-eda.jpg)>
-
-[![Ariana-Casta-eda.jpg](https://i.postimg.cc/SNgLKGRn/Ariana-Casta-eda.jpg)](https://postimg.cc/GHsT7GkR)
 
 # Introducción
 Dentro de estudios fisiopatológicos es necesario analizar muestras biológicas. Para el análisis de muestras de laboratorio con un microscopio es fundamental que estas se encuentren en las condiciones óptimas dependientes de cada uno de ellas para asegurar la falta de sesgos dentro de la investigación científica. Estas condiciones se basan principalmente en la temperatura, valor de pH y presión atmosférica. Asimismo, es de gran valor estudiar los cambios fisiológicos de las muestras durante una variación de temperatura del ambiente en el que se encuentran. Actualmente la creación de microscopios que regulen la temperatura de las muestras es escasa, asimismo, se vende en el mercado con un gran valor monetario. 
