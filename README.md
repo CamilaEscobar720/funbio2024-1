@@ -41,18 +41,14 @@ Nuestra línea de Investigación es en el Campo Biotecnológico
 
 ## Definición de la problemática
 
-Los investigadores científicos cuentan con poca información y procesos limitantes sobre el efecto de las células cancerosas ante la regulación de temperatura
-
-## Nuestra propuesta de solución
-
-Nuestra propuesta de solución consistira en implementar un microscopio que incluya un sistema de termorregulación de bajo costo basandonos en microscopios de código abierto.
+Los investigadores científicos cuentan con poca información y procesos limitantes sobre el efecto de las células cancerosas ante la regulación de temperatura.
 
 ## Estado del arte Científico
 
 La comunidad científica ha realizado aportes previamente sobre nuestro tema de interés. De hecho han desarrollado tecnología open-hardware sobre un prototipo de "Microscopio con Sistema de Termorregulación".
 Además es importante definir para nuestro proyecto, el campo de aplicación al que queremos llegar; si bien los equipos de investigación científica ya cuentan con una gran presencia en las industrias principales, su valor en el mercado naturalmente corresponde a sus características técnicas y va de la mano con el rendimiento necesario para determinados sectores.
 
-Conociendo toda esa información, es posible profundizar sobre como es tratado el desarrollo de nuevas tecnologías open-hardware. Es de saber que un microscopio al dia de hoy está presente en una gran variedad de sectores, dentro de ellos, la investigación científica cada vez requiere de nuevas técnicas de estudio específicas para su objetivo. Por ejemplo, la microscopía por fluorecencia se evidencia en un estudio en el que se deseaba registrar el comportamiento de la larva de un pez cebra, esta era fácilmente identificada por su naturaleza fluorescente (proteina GFP) que se pudo visualizar mediante un filtro de emisión de paso corto incorporado al microscopio. (https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702#pbio.2002702.ref021).
+Conociendo toda esa información, es posible profundizar sobre como es tratado el desarrollo de nuevas tecnologías open-hardware. Es de saber que un microscopio al dia de hoy está presente en una gran variedad de sectores, dentro de ellos, la investigación científica cada vez requiere de nuevas técnicas de estudio específicas para su objetivo. Por ejemplo, la microscopía por fluorecencia se evidencia en un estudio en el que se deseaba registrar el comportamiento de la larva de un pez cebra, esta era fácilmente identificada por su naturaleza fluorescente (proteina GFP) que se pudo visualizar mediante un filtro de emisión de paso corto incorporado al microscopio. [1]
 
 Así como este ejemplo, existen avances respecto al desarrollo de un microscopio termorregulado con diferentes propósitos de investigación, esto nos brinda la oportunidad de explorar un campo al que le sea beneficioso y genere un impacto positivo el uso de una alternativa mucho más asequible y abierta a oportunidades de mejora por parte de la comunidad científica. 
 
@@ -71,4 +67,5 @@ Estos son solo algunos ejemplos y muchas otras marcas también ofrecen microscop
 | Nikon Eclipse Ti2 | ofrece capacidades de control de temperatura y otras características avanzadas para aplicaciones de investigación biológica y de materiales.|
 | Olympus IX83 | se equipa con sistemas de control de temperatura precisos para estudios en células vivas y otras aplicaciones de investigación. |
 
-
+##Referencias bibliográficas
+[1] A. M. Chagas, L. L. Prieto-Godino, A. B. Arrenberg, and T. Baden, "The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behavior of zebrafish, Drosophila, and Caenorhabditis elegans," PLoS Biol., vol. 15, no. 7, pp. e2002702, Jul. 2017.
