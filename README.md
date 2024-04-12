@@ -36,7 +36,7 @@ Nuestra línea de Investigación es en el Campo Biotecnológico
 - [Estado del arte Científico](#Estado-del-arte-científico).
 - [Estado del arte Comercial](#Estado-del-arte-comercial).
 - [Definición de la problemática](#Definición-de-la-problemática).
-- [Referencias bibliográficas](#Refencias-bibliográficas)
+- [Referencias bibliográficas](#Referencias-bibliográficas)
 ## Estado del arte científico
 
 La comunidad científica ha realizado aportes previamente sobre nuestro tema de interés. De hecho han desarrollado tecnología open-hardware sobre un prototipo de "Microscopio con Sistema de Termorregulación".
