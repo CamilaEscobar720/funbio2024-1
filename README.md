@@ -67,5 +67,5 @@ Estos son solo algunos ejemplos y muchas otras marcas también ofrecen microscop
 | Nikon Eclipse Ti2 | ofrece capacidades de control de temperatura y otras características avanzadas para aplicaciones de investigación biológica y de materiales.|
 | Olympus IX83 | se equipa con sistemas de control de temperatura precisos para estudios en células vivas y otras aplicaciones de investigación. |
 
-##Referencias bibliográficas
+## Referencias bibliográficas
 [1] A. M. Chagas, L. L. Prieto-Godino, A. B. Arrenberg, and T. Baden, "The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behavior of zebrafish, Drosophila, and Caenorhabditis elegans," PLoS Biol., vol. 15, no. 7, pp. e2002702, Jul. 2017.
