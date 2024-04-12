@@ -78,3 +78,5 @@ Los investigadores científicos cuentan con poca información y procesos limitan
 [4] Vera HA, Chong QJE, Leija SL, et al. Hipertermia electromagnética, una alternativa para el tratamiento del cáncer: antecedentes, aspectos físicos y biológicos. Rev Mex Ing Biomed. 2001;22(2):78-88.
 
 [5] Philipp Wachter Greiner,Martin Gleisner  , "Plastic Labware for Optimal Results in Modern Life Science Microscopy Using ZEISS Axio Observer and ZEISS Celldiscoverer 7," greiner BIO-one, Feb 2022.
+
+[6] , "Nikon Corporation," Nikon, Japan, , 2023.
