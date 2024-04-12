@@ -30,16 +30,9 @@ Nuestra línea de Investigación es en el Campo Biotecnológico
 | Expectativa del curso: Crear ,con modelado 3D, un prototipo funcional que incluya circuitos. | Expectativas del curso: Espero aprender a desarrollar mi capacidad como ingeniero en este curso, sobre todo espero aprender mucho de los profesores y nutrirme con sus experiencias. | Expectativas del curso: aprender más sobre los circuitos y modelado 3D
 
 
-
-
-
-
-# Introducción
-Dentro de estudios fisiopatológicos es necesario analizar muestras biológicas. Para el análisis de muestras de laboratorio con un microscopio es fundamental que estas se encuentren en las condiciones óptimas dependientes de cada uno de ellas para asegurar la falta de sesgos dentro de la investigación científica. Estas condiciones se basan principalmente en la temperatura, valor de pH y presión atmosférica. Asimismo, es de gran valor estudiar los cambios fisiológicos de las muestras durante una variación de temperatura del ambiente en el que se encuentran. Actualmente la creación de microscopios que regulen la temperatura de las muestras es escasa, asimismo, se vende en el mercado con un gran valor monetario. 
-
 ## Definición de la problemática
 
-Los microscopios que varíen la temperatura de la muestra a analizar que existen en el mercado son costosos y no son especializados en analizar muestras para estudios fisiopatológicos.
+Los investigadores científicos cuentan con poca información y procesos limitantes sobre el efecto de las células cancerosas ante la regulación de temperatura
 
 ## Nuestra propuesta de solución
 
@@ -54,7 +47,11 @@ Conociendo toda esa información, es posible profundizar sobre como es tratado e
 
 Así como este ejemplo, existen avances respecto al desarrollo de un microscopio termorregulado con diferentes propósitos de investigación, esto nos brinda la oportunidad de explorar un campo al que le sea beneficioso y genere un impacto positivo el uso de una alternativa mucho más asequible y abierta a oportunidades de mejora por parte de la comunidad científica. 
 
-### Estado del arte Comercial
-| Microscopios | Descripción |
+El uso de microscopios con control de temperatura permite a los investigadores simular condiciones fisiológicas relevantes y obtener información valiosa sobre cómo las enfermedades afectan a los tejidos y células en diferentes entornos térmicos.
+| Usos | Descripción |
 |--------------|-------------|
+| Enfermedades infecciosas: | El uso del microscopio con control de temperatura, sería un apoyo en el estudio de enfermedades infecciosas como la malaria, la tuberculosis y las infecciones virales, porque mostraría cómo los patógenos interactúan con las células huésped a diferentes temperaturas. Esto puede proporcionar información sobre la patogénesis de la enfermedad, la respuesta inmune del huésped y la eficacia de los tratamientos antimicrobianos. Además de poder mostrar cambios morfológicos y ultraestructurales, estudio de la expresión génica, visualización de interacciones microbianas. En conclusión los microscopios con control de temperatura nos ayudarían a  identificar nuevos mecanismos de resistencia antimicrobiana al permitir a los investigadores observar cómo los microorganismos modifican sus procesos. |
+| Enfermedades neurodegenerativas: | En el Perú la demencia de Alzheimer afecta a entre el 5% y el 8% de los adultos mayores de más de 65 años, siendo esta la última etapa de esta enfermedad. Es por ello necesario la ***búsqueda de instrumentos diagnósticos breves y fiables*** que permitan detectar los estadios iniciales del alzheimer y que puedan ser de uso por los médicos generales y personal de salud en sistemas de atención de salud primarios. Frente a esta problemática se propone el uso de un microscopio para la realización de la prueba de tincion e inmunohistoquimica para la detección de Biomarcadores en el Líquido Cefalorraquídeo (LCR), con un sistema de termorregulación, ya que requieren de condiciones óptimas de temperatura para garantizar la especificidad y sensibilidad de la reacción. | 
+| Desarrollo cancerígeno: | La utilidad de un microscopio termorregulado es importante al momento de investigar sobre nuevas metodologías para la mejora y especialización de la hipertermia, tratamiento que se aplica a pacientes con desarrollo de tejido cancerígeno. El estudio de la terapia de hipertermia, engloba tanto el aporte tecnológico para lograr nuevos equipos de emisión de radiación térmica, como el efecto biológico de la aplicación de calor sobre la célula cancerosa y los cambios bioquímicos y estructurales que le produce. Sobre el último punto, hay investigaciones de cambios fisiopatológicos a nivel celular que son: perfusión sanguínea, cambios del pH tisular,cambios en la oxigenación tisular y cambios en niveles bioenergéticos.
 
+### Estado del arte Comercial
