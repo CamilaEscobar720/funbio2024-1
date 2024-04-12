@@ -64,3 +64,11 @@ El uso de microscopios con control de temperatura permite a los investigadores s
 | Desarrollo cancerígeno: | La utilidad de un microscopio termorregulado es importante al momento de investigar sobre nuevas metodologías para la mejora y especialización de la hipertermia, tratamiento que se aplica a pacientes con desarrollo de tejido cancerígeno. El estudio de la terapia de hipertermia, engloba tanto el aporte tecnológico para lograr nuevos equipos de emisión de radiación térmica, como el efecto biológico de la aplicación de calor sobre la célula cancerosa y los cambios bioquímicos y estructurales que le produce. Sobre el último punto, hay investigaciones de cambios fisiopatológicos a nivel celular que son: perfusión sanguínea, cambios del pH tisular,cambios en la oxigenación tisular y cambios en niveles bioenergéticos.
 
 ### Estado del arte Comercial
+Estos son solo algunos ejemplos y muchas otras marcas también ofrecen microscopios con capacidades avanzadas de control de temperatura. Cada marca y modelo puede tener características específicas que se adaptan a diferentes aplicaciones y necesidades de investigación.
+| Microscopio | Descripción |
+|-------------|-------------|
+| Axio Observer | pueden equiparse con sistemas de control de temperatura avanzados para estudios de células vivas y otras aplicaciones sensibles a la temperatura.|
+| Nikon Eclipse Ti2 | ofrece capacidades de control de temperatura y otras características avanzadas para aplicaciones de investigación biológica y de materiales.|
+| Olympus IX83 | se equipa con sistemas de control de temperatura precisos para estudios en células vivas y otras aplicaciones de investigación. |
+
+
