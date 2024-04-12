@@ -69,3 +69,4 @@ Estos son solo algunos ejemplos y muchas otras marcas también ofrecen microscop
 
 ## Referencias bibliográficas
 [1] A. M. Chagas, L. L. Prieto-Godino, A. B. Arrenberg, and T. Baden, "The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behavior of zebrafish, Drosophila, and Caenorhabditis elegans," PLoS Biol., vol. 15, no. 7, pp. e2002702, Jul. 2017.
+[2] “Microbial response to environmental stresses: from fundamental mechanisms to practical applications - PubMed”. PubMed. Accedido el 12 de abril de 2024. 
