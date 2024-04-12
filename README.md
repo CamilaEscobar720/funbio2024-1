@@ -35,6 +35,7 @@ Nuestra línea de Investigación es en el Campo Biotecnológico
 
 - [Estado del arte Científico](#Estado-del-arte-científico).
 - [Estado del arte Comercial](#Estado-del-arte-comercial).
+- [Mapa de Ishikawa](#Mapa-de-Ishikawa)
 - [Definición de la problemática](#Definición-de-la-problemática).
 - [Referencias bibliográficas](#Referencias-bibliográficas)
 ## Estado del arte científico
