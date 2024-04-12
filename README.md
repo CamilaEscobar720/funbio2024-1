@@ -34,7 +34,6 @@ Nuestra línea de Investigación es en el Campo Biotecnológico
 ## Tabla de contenido
 
 - [Definición de la problemática](#Definición-de-la-problemática).
-- [Nuestra propuesta de solución](#Nuestra-propuesta-de-solución).
 - [Estado del arte Científico](#Estado-del-arte-científico).
 - [Estado del arte Comercial](#Estado-del-arte-comercial).
 
