@@ -3,8 +3,7 @@
   <img src="[https://fundbio.github.io/images/pucp_upch.png]>
 </p>
 
-![pucp_upch](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/11b298ef-4331-4d34-9643-bca3bb04df60)
-
+[![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
 ---
 # Fundamentos de Biodiseño: Equipo 01
 
