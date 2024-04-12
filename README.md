@@ -30,6 +30,15 @@ Nuestra línea de Investigación es en el Campo Biotecnológico
 | Expectativa del curso: Crear ,con modelado 3D, un prototipo funcional que incluya circuitos. | Expectativas del curso: Espero aprender a desarrollar mi capacidad como ingeniero en este curso, sobre todo espero aprender mucho de los profesores y nutrirme con sus experiencias. | Expectativas del curso: aprender más sobre los circuitos y modelado 3D
 
 
+
+## Tabla de contenido
+
+- [Definición de la problemática](#Definición-de-la-problemática).
+- [Nuestra propuesta de solución](#Nuestra-propuesta-de-solución).
+- [Estado del arte Científico](#Estado-del-arte-Científico).
+  
+## Nuestra propuesta de solución
+
 ## Definición de la problemática
 
 Los investigadores científicos cuentan con poca información y procesos limitantes sobre el efecto de las células cancerosas ante la regulación de temperatura
