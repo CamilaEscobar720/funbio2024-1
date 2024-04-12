@@ -35,9 +35,9 @@ Soy estudiante de Ingeniería Biomédica. Me interesa la rama de Tejidos. Mis ex
 Soy estudiante de 4to ciclo de Ingenieria Biomédica. Estoy interesado en la Biomecanica y la Ingenieria de Tejidos. Mi interes con el curso es para descubrir nuevas oportunidades y así comprometerme más con mi carrera. Durante la realizacion del proyecto, asumiré el rol de conceptualizar las ideas.
 
 <p align="center">
-  <img src="(https://media.licdn.com/dms/image/D4E03AQGU0uCO-E4upA/profile-displayphoto-shrink_200_200/0/1689786921988?e=2147483647&v=beta&t=1Izms1NSGYTACb4OmtKLDbmQpP1YSCKllypJzaf61_8)>
+  <img src="(https://i.postimg.cc/HnP81hyL/Andre-quispe.jpg)>
 
-![Andre Quispe](https://media.licdn.com/dms/image/D4E03AQGU0uCO-E4upA/profile-displayphoto-shrink_200_200/0/1689786921988?e=2147483647&v=beta&t=1Izms1NSGYTACb4OmtKLDbmQpP1YSCKllypJzaf61_8)
+[![Andre-quispe.jpg](https://i.postimg.cc/HnP81hyL/Andre-quispe.jpg)](https://postimg.cc/sG7gpKKF)
 
 ### Diego Jurado ***(Encargado de la programación del prototipo)***
 - 5to Ciclo universitario
