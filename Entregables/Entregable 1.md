@@ -9,10 +9,11 @@ Con respecto al uso del software libre, este promueve el aprendizaje pues otros 
 
 ## 2. Contexto de la Malaria en el Perú
 La malaria es la enfermedad parasitaria más importante del mundo, causando una enorme carga de morbimortalidad en aquellas zonas donde es endémica. Transmitida por mosquitos hembra Anopheles y resulta de la infección de un huésped vulnerable por parásitos Plasmodium. Las especies que afectan al humano son las siguientes: Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale, Plasmodium malariae y Plasmodium knowlesi. Siendo las más frecuentes: Plasmodium, vivax y falciparum.
-[![Datos-malaria.jpg](https://i.postimg.cc/V6fGX0RN/Datos-malaria.jpg)](https://postimg.cc/2qt7D6gp) 
+
 Respecto al problema de salud que representa, casi la mitad de la población mundial está en riesgo de padecer malaria, especialmente es endémica en 86 países tropicales y subtropicales, abarcando todo el África subsahariana, así como grandes áreas del Sudeste Asiático, el Mediterráneo Oriental, el Pacífico Occidental, y las Américas.[3]
 
 En el Perú, la malaria se concentra principalmente en el departamento de Loreto, donde la transmisión se mantiene en comunidades rurales y periurbanas. Loreto es el departamento con el nivel de vulnerabilidad más alto. Según el Centro Nacional de Epidemiología, Prevención y Control de Enfermedades, durante el año 2023, de los , el 95.9% de casos reportados de malaria se concentró en los departamentos de Loreto y Amazonas, además de ser la especie Plasmodium vivax, la que agrupa la mayor cantidad de casos. Esta situación se debe a que en la región amazónica no se cuentan con pruebas para el diagnóstico oportuno a las personas con síntomas de malaria, así como por la falta de medicamentos esenciales y adecuados para su tratamiento.[4][5]
+[![Datos-malaria.jpg](https://i.postimg.cc/V6fGX0RN/Datos-malaria.jpg)](https://postimg.cc/2qt7D6gp) 
 [![Datos-departamentos-del-per.jpg](https://i.postimg.cc/XJKTK0dV/Datos-departamentos-del-per.jpg)](https://postimg.cc/wyvfHZwP)     [![Mapa-malaria.jpg](https://i.postimg.cc/28YQyLzb/Mapa-malaria.jpg)](https://postimg.cc/Wt9Ff3qT)
 
 
