@@ -41,11 +41,6 @@ Conociendo toda esa información, es posible profundizar sobre cómo es tratado 
 
 La malaria tiene seis  especies de, Plasmodium, P. falciparum, P. vivax, P. malariae, P. ovale  curtisi, P. ovale wallikeri  y  P. knowlesi [11]. Es de importancia saber que tipo de plasmodium tiene el paciente para que reciba el tratamiento adecuado, debido a que especie responde de manera diferente.
 
-Existen avances con respecto al desarrollo de un software de cuantificación y clasificación con diferentes propósitos de investigación, esto nos brinda la oportunidad de explorar un campo al que le sea beneficioso y genere un impacto positivo el uso de una alternativa mucho más asequible y abierta a oportunidades de mejora por parte de la comunidad científica.
-
-La implementación de un software de identificación automatizado a un equipo médico que requiere de la intervención humana, plantea una solución que se centra en los siguientes puntos: optimización de tiempo, reducción importante sobre el error en la toma de datos por factor humano y diagnóstico de mayor calidad con equipo de bajo coste.
-
-
 
 # Referencias bibliográficas
 [1] Open Source Hardware Association. Definition. [Online]. Disponible: https://www.oshwa.org/definition/ 
