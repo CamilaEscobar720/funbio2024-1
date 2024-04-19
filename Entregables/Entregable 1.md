@@ -66,6 +66,7 @@ D. K. Das, R. Mukherjee, and C. Chakraborty, “Computational microscopic imagin
 
 [9]
 L. Valdés, J. Quintero, M. Jiménez, P. Chaparro, and Sensibilidad, “Sensibilidad y especificidad de las técnicas moleculares PCR (Polymerase Chain Reaction), LAMP (Loop-mediated isothermal amplificaction), inmunocromatografícas (PDR – Pruebas de Diagnóstico Rápido) vs la microscopía en el diagnóstico de la malaria: una revision sistemática.,” vol. 6, no. 3. Universidad Regional Autónoma de los Andes, p. 1456, Sep. 01, 2023, doi: 10.61154/rucs.v6i3.2480.
+
 [10]
 “Repositorio Digital UNESUM: Malaria en Latinoamérica. Diagnóstico y situación epidemiológica actual”. Repositorio Digital UNESUM 19, abril, 2022 https://repositorio.unesum.edu.ec/handle/53000/5601
 
