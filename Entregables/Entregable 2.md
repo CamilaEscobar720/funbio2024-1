@@ -36,4 +36,4 @@ Desarrollar un microscopio portátil con un software automatizado integrado que 
 - [4] “SimpleZ - A.COLOMA Winkoms Open Microscopy”. A.COLOMA Winkoms Open Microscopy. Accedido el 19 de abril de 2024.  https://acolomamicroscopis.com/portal/estereo_microscopio_foco_extremo_deepfocus/
 - [5] R. Smith , “MACHINE LEARNING CLASSIFICATION AND TRAINING FOR DIGITAL MICROSCOPY IMAGES” U.S. Patent 10 , 255 , 693 B2, April 9, 2019.
 - [6] A. Plesch and Schwetzingen, “AND CLASSIFICATION OF OBJECTS OF INTEREST IN MICROSCOPE IMAGES BY SUPERVISED MACHINE LEARNING ( 71 ) Applicant : MetaSystems Hard & Software GmbH , Altlussheim ( DE ).”
-- [7]  [7] J. Stamatoyannopoulos, S. Akilesh , “Methods of Analyzing Microscopy Images Using Machine Learning” U.S.20230274423A1, Agosto 31, 2023.
+- [7] J. Stamatoyannopoulos, S. Akilesh , “Methods of Analyzing Microscopy Images Using Machine Learning” U.S.20230274423A1, Agosto 31, 2023.
