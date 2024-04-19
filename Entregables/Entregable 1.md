@@ -52,7 +52,7 @@ Centro Nacional de Epidemiología, Prevención y Control de Enfermedades, “Nú
 [5] 
 F. iO, “Situación de la malaria en Perú,” Fundación iO, Sep. 16, 2023. https://fundacionio.com/malaria-en-peru-2/
 
-[6]
+[6] N. P.  Molina, "HERRAMIENTAS PARA INVESTIGAR ¿Qué es el estado del arte?," Ciencia y Tecnología para la salud Visual y Ocular, no. 5, pp. 1 - 3, Julio - diciembre 2005.
 
 [7]
 D. K. Das, R. Mukherjee, and C. Chakraborty, “Computational microscopic imaging for malaria parasite detection: a systematic review,” Journal of Microscopy, vol. 260, no. 1, pp. 1–19, Jun. 2015, doi: 10.1111/jmi.12270.
