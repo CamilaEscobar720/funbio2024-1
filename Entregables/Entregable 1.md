@@ -41,6 +41,9 @@ Conociendo toda esa información, es posible profundizar sobre cómo es tratado 
 
 La malaria tiene seis  especies de, Plasmodium, P. falciparum, P. vivax, P. malariae, P. ovale  curtisi, P. ovale wallikeri  y  P. knowlesi [11]. Es de importancia saber que tipo de plasmodium tiene el paciente para que reciba el tratamiento adecuado, debido a que especie responde de manera diferente.
 
+La microscopía manual sigue siendo una práctica común en el diagnóstico de la malaria y la investigación médica, pero su efectividad puede fluctuar debido a las disparidades en la formación y los métodos utilizados en el terreno. Los sistemas de diagnóstico automatizado, basados en técnicas de aprendizaje automático, prometen mejorar la uniformidad y la precisión de la microscopía en entornos de campo. [12]
+
+
 
 # Referencias bibliográficas
 [1] Open Source Hardware Association. Definition. [Online]. Disponible: https://www.oshwa.org/definition/ 
@@ -72,3 +75,5 @@ L. Valdés, J. Quintero, M. Jiménez, P. Chaparro, and Sensibilidad, “Sensibil
 
 [11]
 “Vista de Actualización de malaria | Revista Medica Sinergia”. Revista Medica Sinergia. 19, abr, 2019. https://www.revistamedicasinergia.com/index.php/rms/article/view/616/1063
+
+[12] Das, D., Vongpromek, R., Assawariyathipat, T. et al. Field evaluation of the diagnostic performance of EasyScan GO: a digital malaria microscopy device based on machine-learning. Malar J 21, 122 (2022). https://doi.org/10.1186/s12936-022-04146-1
