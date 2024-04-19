@@ -42,6 +42,8 @@ Nuestra línea de Investigación es en el Campo Biotecnológico
 El estado del arte se refiere a una técnica de investigación documental que facilita el análisis del conocimiento previamente desarrollado y registrado en textos en un campo específico. Al llevar a cabo un estado del arte, se fomenta la difusión de información, se estimula la búsqueda de conocimiento y se permite la comparación con otros cuerpos de conocimiento similares, lo que ofrece diversas perspectivas para entender el problema abordado. En resumen, proporciona múltiples enfoques para el estudio de una cuestión determinada.
 [8].
 
+En el caso de  nuestro proyecto, debido a la rama tocada en clase, lo direccionamos a solucionar la problematica de manera tecnologica, por ende, se realiza la busqueda de articulos provenientes de fuentes viables y verificables que hagan referencia al uso de soluciones tecnologicas aplicadas a la problematica asignada 
+
 ---
 La comunidad científica ha realizado aportes previamente sobre nuestro tema de interés. De hecho han desarrollado tecnología open-hardware acerca de "Software de Reconocimiento Automatizado".
 Además es importante definir para nuestro proyecto, el campo de aplicación al que queremos llegar; si bien los equipos de investigación científica ya cuentan con una gran presencia en las industrias principales, su valor en el mercado naturalmente corresponde a sus características técnicas y va de la mano con el rendimiento necesario para determinados sectores.
