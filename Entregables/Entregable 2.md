@@ -27,6 +27,7 @@ Las principales contribuciones del proyecto son las siguientes:
 | [![Patente3-1.jpg](https://i.postimg.cc/CxcKccrj/Patente3-1.jpg)](https://postimg.cc/bZ28J9hJ) [![Patente3-2.jpg](https://i.postimg.cc/fyYL5Z1L/Patente3-2.jpg)](https://postimg.cc/SYNkx0SF) | Método de captura de imágenes que se procesa con un algoritmo de aprendizaje automático especializado en identificar rasgos fenotípicos celulares relacionados con los rasgos genéticos, epigenéticos o genómicos de interés. El algoritmo se entrena utilizando un conjunto de datos de entrenamiento, valga la redundancia, que comprende datos de imágenes celulares y datos de secuenciación de ácidos nucleicos.|
 # Lista de requerimentos
 [![FUNCIONAL.jpg](https://i.postimg.cc/XNkY8tcD/FUNCIONAL.jpg)](https://postimg.cc/yWWK6QGF) [![NO-FUNCIONAL.jpg](https://i.postimg.cc/RFzv1T3B/NO-FUNCIONAL.jpg)](https://postimg.cc/cKXq0wM9)
+# Propuesta de solución
 # Referencias bibliográficas
 [1] Maia Chagas A, Prieto-Godino LL, Arrenberg AB, Baden T (2017) The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans. PLoS Biol 15(7): e2002702. https://doi.org/10.1371/journal.pbio.2002702
 [2] F. Voight, D. Kirschenbaum, “The mesoSPIM initiative: open-source light-sheet microscopes for imaging cleared tissue”, Nature Methods, vol 16, pp. 1105 -1108, Noviembre 2019.
