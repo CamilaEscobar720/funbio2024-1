@@ -8,5 +8,10 @@
 | mesoSPIM [![mesoSPIM.png](https://i.postimg.cc/BQqJszZK/mesoSPIM.png)](https://postimg.cc/9zN6YJ7m) | Utiliza una iluminación selectiva,  es capaz de capturar imágenes tridimensionales de toda la muestra de forma rápida y eficiente. |
 | SimpleZ [![SimpleZ.jpg](https://i.postimg.cc/vZZfKM42/SimpleZ.jpg)](https://postimg.cc/0bhz6Td7) | Basado en el **Estereo Microscopio DZ Stereo Microscope** y cámara digital de Euromex, guarda todas las imagenes un sólo archivo ZIP para poder ser procesadas posteriormente con aplicaciones. |
 ### Patentes existentes
+| Patente | Descripción |
+|-------------|-------------|
+|  |  |
+|   | |
+|    | |
 # Lista de requerimentos
 # Referencias bibliográficas
