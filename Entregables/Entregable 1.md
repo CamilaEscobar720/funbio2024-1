@@ -8,6 +8,10 @@ Con respecto al uso del software libre, este promueve el aprendizaje pues otros 
 
 
 ## 2. Contexto de la Malaria en el Perú
+La malaria es la enfermedad parasitaria más importante del mundo, causando una enorme carga de morbimortalidad en aquellas zonas donde es endémica transmitida por mosquitos hembra Anopheles y resulta de la infección de un huésped vulnerable por parásitos Plasmodium. Las especies que afectan al humano son las siguientes: Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale, Plasmodium malariae y Plasmodium knowlesi. Siendo las más frecuentes Plasmodium, vivax y falciparum.
+Respecto al problema de salud que representa, casi la mitad de la población mundial está en riesgo de padecer malaria, especialmente es endémica en 86 países tropicales y subtropicales, abarcando todo el África subsahariana, así como grandes áreas del Sudeste Asiático, el Mediterráneo Oriental, el Pacífico Occidental, y las Américas.[1]
+
+En el Perú, la malaria se concentra principalmente en el departamento de Loreto, donde la transmisión se mantiene en comunidades rurales y periurbanas. Loreto es el departamento con el nivel de vulnerabilidad más alto. Según el Centro Nacional de Epidemiología, Prevención y Control de Enfermedades, durante el año 2023, de los , el 95.9% de casos reportados de malaria se concentró en los departamentos de Loreto y Amazonas, además de ser la especie Plasmodium vivax, la que agrupa la mayor cantidad de casos. Esta situación se debe a que en la región amazónica no se cuentan con pruebas para el diagnóstico oportuno a las personas con síntomas de malaria, así como por la falta de medicamentos esenciales y adecuados para su tratamiento.  [2][3]
 
 
 # Diagrama de Ishikawa
@@ -35,4 +39,14 @@ La implementación de un software de identificación automatizado a un equipo m�
 [1] Open Source Hardware Association. Definition. [Online]. Disponible: https://www.oshwa.org/definition/ 
 
 [2] Free Software Foundation. Free software is software that gives you the user the freedom to share, study and modify it. We call this free software because the user is free. [Online]. Disponible: https://www.fsf.org/about/what-is-free-software
+
+[3]
+R. Varo, C. Chaccour, and Q. Bassat, “Update on malaria,” vol. 155, no. 9. Elsevier BV, p. 395, Jun. 30, 2020, doi: 10.1016/j.medcli.2020.05.010.
+
+[4] 
+Centro Nacional de Epidemiología, Prevención y Control de Enfermedades, “Número de casos de malaria, Perú 2020 – 2024”,  Ene. 18, 2024. https://www.dge.gob.pe/portalnuevo/
+
+[5] 
+F. iO, “Situación de la malaria en Perú,” Fundación iO, Sep. 16, 2023. https://fundacionio.com/malaria-en-peru-2/
+
 
