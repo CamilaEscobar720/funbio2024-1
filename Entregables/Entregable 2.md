@@ -28,6 +28,8 @@ Las principales contribuciones del proyecto son las siguientes:
 # Lista de requerimentos
 [![FUNCIONAL.jpg](https://i.postimg.cc/XNkY8tcD/FUNCIONAL.jpg)](https://postimg.cc/yWWK6QGF) [![NO-FUNCIONAL.jpg](https://i.postimg.cc/RFzv1T3B/NO-FUNCIONAL.jpg)](https://postimg.cc/cKXq0wM9)
 # Propuesta de solución
+Desarrollar un microscopio portátil con un software automatizado integrado que permita la diferenciación de los tipos de Plasmodium, asegurando así una alerta temprana de la presecencia de los distintos tipos malaria en áreas con recursos limitados y escasez de personal especializado en laboratorios médicos.
+
 # Referencias bibliográficas
 [1] Maia Chagas A, Prieto-Godino LL, Arrenberg AB, Baden T (2017) The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans. PLoS Biol 15(7): e2002702. https://doi.org/10.1371/journal.pbio.2002702
 [2] F. Voight, D. Kirschenbaum, “The mesoSPIM initiative: open-source light-sheet microscopes for imaging cleared tissue”, Nature Methods, vol 16, pp. 1105 -1108, Noviembre 2019.
