@@ -8,6 +8,10 @@ Sin embargo, es fundamental que los términos de distribución cumplan con ciert
 
 ## 3. Métodos de diagnóstico de la Malaria
 
+# Diagrama de Ishikawa
+
+# Estado del arte comercial
+
 # Referencias bibliográficas
 [1] Con respecto al uso del software libre, este promueve el aprendizaje pues otros pueden construir sobre estos para que pue da ser estudiado, usado y transformado según las necesidades o preferencias del modificador.
 [2]![image](https://github.com/CamilaEscobar720/funbio2024-1/assets/164528701/31b5be5d-641d-4d5b-9c10-ec2c87b2b1bb)
