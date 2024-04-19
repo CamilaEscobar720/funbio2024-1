@@ -9,15 +9,9 @@ Con respecto al uso del software libre, este promueve el aprendizaje pues otros 
 
 ## 2. Contexto de la Malaria en el Perú
 La malaria es la enfermedad parasitaria más importante del mundo, causando una enorme carga de morbimortalidad en aquellas zonas donde es endémica. Transmitida por mosquitos hembra Anopheles y resulta de la infección de un huésped vulnerable por parásitos Plasmodium. Las especies que afectan al humano son las siguientes: Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale, Plasmodium malariae y Plasmodium knowlesi. Siendo las más frecuentes: Plasmodium, vivax y falciparum.
-
 Respecto al problema de salud que representa, casi la mitad de la población mundial está en riesgo de padecer malaria, especialmente es endémica en 86 países tropicales y subtropicales, abarcando todo el África subsahariana, así como grandes áreas del Sudeste Asiático, el Mediterráneo Oriental, el Pacífico Occidental, y las Américas.[3]
 
 En el Perú, la malaria se concentra principalmente en el departamento de Loreto, donde la transmisión se mantiene en comunidades rurales y periurbanas. Loreto es el departamento con el nivel de vulnerabilidad más alto. Según el Centro Nacional de Epidemiología, Prevención y Control de Enfermedades, durante el año 2023, de los , el 95.9% de casos reportados de malaria se concentró en los departamentos de Loreto y Amazonas, además de ser la especie Plasmodium vivax, la que agrupa la mayor cantidad de casos. Esta situación se debe a que en la región amazónica no se cuentan con pruebas para el diagnóstico oportuno a las personas con síntomas de malaria, así como por la falta de medicamentos esenciales y adecuados para su tratamiento.[4][5]
-<p align="center">
-  <img src="https://postimg.cc/2qt7D6gp> 
-    
-[![Datos-malaria.jpg](https://i.postimg.cc/V6fGX0RN/Datos-malaria.jpg)](https://postimg.cc/2qt7D6gp)    
-[![Datos-departamentos-del-per.jpg](https://i.postimg.cc/XJKTK0dV/Datos-departamentos-del-per.jpg)](https://postimg.cc/wyvfHZwP)     [![Mapa-malaria.jpg](https://i.postimg.cc/28YQyLzb/Mapa-malaria.jpg)](https://postimg.cc/Wt9Ff3qT)
 
 
 # Diagrama de Ishikawa
@@ -31,13 +25,20 @@ La comunidad científica ha realizado aportes previamente sobre nuestro tema de 
 
 Conociendo toda esa información, es posible profundizar sobre como es tratado el desarrollo de nuevas tecnologías open-hardware. Es de saber que un microscopio al dia de hoy está presente en una gran variedad de sectores, dentro de ellos, la investigación científica cada vez requiere de nuevas técnicas de estudio específicas para su objetivo. Por ejemplo, si ampliamos nuestras fronteras a paises extranjeros, hay diversos métodos para la detección de malaria. Cada uno de estos métodos difiere en efectividad, tipos de equipos médicos, metodología, entre otros. Por hacer mención de algunos métodos ya existentes se describirá brevemente su metodología.()
 
-1.- Detección por microscopía: -Se toma una pequeña muestra de sangre del paciente para obtener un frotis que es llevado a analizar en un microscopio por un especialista, en base a la determinacion de eritrocitos anormales se determina si el paciente presenta malaria.[7] 
+1.- Frotis/extensión fina: -Se toma una pequeña muestra de sangre del paciente para obtener un frotis que es llevado a analizar en un microscopio por un especialista, en base a la determinacion de eritrocitos anormales se determina si el paciente presenta malaria.[7] 
 
 2.- Pruebas Rápidas de Diagnóstico (RDT): -En este método también se hace uso de una muestra de sangre que se puede obtener mediante un pinchazo en el dedo, la diferencia radica en que ahora, la muestra se ingresa al dispositivo RDT que contiene reactivos específicps que determinan la presencia de plasmodium(en cursiva plasmodium) en la sangre. EL resultado se visualiza 15mn-20mn después mediante una linea que se traza en el dispositivo RDT producto de la reacción química.[8] 
 
 3.- Pruebas Moleculares: -Estas pruebas por su mecanismo de detección, ya presentan una precisión mayor, puesto que se detemermina mediante PCR si hay material génetico de la malaria en la sangre u otros fluidos biológicos. También mediante una muestra (generalmente sangre), se procede a extraer el ADN en su interior para proceder a purificarlo y realizar un PCR que servirá para amplificar regiones específicas del genoma del parásito de la malaria. La detección de ampliación de ADN refiere a un resultado positivo mientras que aquellas secuencias que no se amplificaron refiere a un resultado negativo.[9] 
 
+4.- Gota gruesa: Con esta prueba se confirma la presencia de malaria a través de una muestra de sangre del paciente, esta se extiende sobre un portaobjetos de vidrio para posteriormente teñirla. Este método detecta la enfermedad incluso cuando el porcentaje de parásitos es baja en la sangre, lo que es ventajoso para un
+diagnóstico temprano [10].
+
+5.- Técnicas serológicas: detección de anticuerpos, uso de las pruebas ELISA (ensayo por inmunoabsorción ligado a enzimas) y pruebas de inmunofluorescencia indirecta (IFI). La desventaja de este método es que no pueden distinguir entre una infección activa y una infección pasada [10].
+ 
 Existen avances respecto al desarrollo de un software de cuantificación y clasificación con diferentes propósitos de investigación, esto nos brinda la oportunidad de explorar un campo al que le sea beneficioso y genere un impacto positivo el uso de una alternativa mucho más asequible y abierta a oportunidades de mejora por parte de la comunidad científica.
+
+La malaria tiene seis  especies de, Plasmodium, P. falciparum, P. vivax, P. malariae, P. ovale  curtisi, P. ovale wallikeri  y  P. knowlesi [11]. Es de importancia saber que tipo de plasmodium tiene el paciente para que reciba el tratamiento adecuado, debido a que especie responde de manera diferente.
 
 La implementación de un software de identificación automatizado a un equipo médico que requiere de la intervención humana, plantea una solución que se centra en los siguientes puntos: optimización de tiempo, reducción importante sobre el error en la toma de datos por factor humano y diagnóstico de mayor calidad con equipo de bajo coste.
 
@@ -55,7 +56,7 @@ Centro Nacional de Epidemiología, Prevención y Control de Enfermedades, “Nú
 [5] 
 F. iO, “Situación de la malaria en Perú,” Fundación iO, Sep. 16, 2023. https://fundacionio.com/malaria-en-peru-2/
 
-[6] N. P.  Molina, "HERRAMIENTAS PARA INVESTIGAR ¿Qué es el estado del arte?," Ciencia y Tecnología para la salud Visual y Ocular, no. 5, pp. 1 - 3, Julio - diciembre 2005.
+[6]
 
 [7]
 D. K. Das, R. Mukherjee, and C. Chakraborty, “Computational microscopic imaging for malaria parasite detection: a systematic review,” Journal of Microscopy, vol. 260, no. 1, pp. 1–19, Jun. 2015, doi: 10.1111/jmi.12270.
@@ -65,4 +66,8 @@ D. K. Das, R. Mukherjee, and C. Chakraborty, “Computational microscopic imagin
 
 [9]
 L. Valdés, J. Quintero, M. Jiménez, P. Chaparro, and Sensibilidad, “Sensibilidad y especificidad de las técnicas moleculares PCR (Polymerase Chain Reaction), LAMP (Loop-mediated isothermal amplificaction), inmunocromatografícas (PDR – Pruebas de Diagnóstico Rápido) vs la microscopía en el diagnóstico de la malaria: una revision sistemática.,” vol. 6, no. 3. Universidad Regional Autónoma de los Andes, p. 1456, Sep. 01, 2023, doi: 10.61154/rucs.v6i3.2480.
+[10]
+“Repositorio Digital UNESUM: Malaria en Latinoamérica. Diagnóstico y situación epidemiológica actual”. Repositorio Digital UNESUM 19, abril, 2022 https://repositorio.unesum.edu.ec/handle/53000/5601
 
+[11]
+“Vista de Actualización de malaria | Revista Medica Sinergia”. Revista Medica Sinergia. 19, abr, 2019. https://www.revistamedicasinergia.com/index.php/rms/article/view/616/1063
