@@ -38,8 +38,11 @@ Nuestra línea de Investigación es en el Campo Biotecnológico
 - [Mapa de Ishikawa](#Mapa-de-Ishikawa)
 - [Definición de la problemática](#Definición-de-la-problemática).
 - [Referencias bibliográficas](#Referencias-bibliográficas)
-## Estado del arte científico
+## Estado del arte - Evidencia Cientifica
+El estado del arte se refiere a una técnica de investigación documental que facilita el análisis del conocimiento previamente desarrollado y registrado en textos en un campo específico. Al llevar a cabo un estado del arte, se fomenta la difusión de información, se estimula la búsqueda de conocimiento y se permite la comparación con otros cuerpos de conocimiento similares, lo que ofrece diversas perspectivas para entender el problema abordado. En resumen, proporciona múltiples enfoques para el estudio de una cuestión determinada.
+[8].
 
+---
 La comunidad científica ha realizado aportes previamente sobre nuestro tema de interés. De hecho han desarrollado tecnología open-hardware acerca de "Software de Reconocimiento Automatizado".
 Además es importante definir para nuestro proyecto, el campo de aplicación al que queremos llegar; si bien los equipos de investigación científica ya cuentan con una gran presencia en las industrias principales, su valor en el mercado naturalmente corresponde a sus características técnicas y va de la mano con el rendimiento necesario para determinados sectores.
 
@@ -92,3 +95,5 @@ Los investigadores científicos cuentan con poca información y procesos limitan
 [6] Eclipse Ti2Inverted Research Microscope - spread , "Nikon Corporation," Nikon,Code No. 2CE-MPOH-2, Tokio, Japan, 2023
 
 [7]"Research Inverted Microscope -IX83/IX73/IX53 ," Olympus Corporation, Shinjuku Monolith, 2-3-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 163-0914, Japan , 2016.
+
+[8] N. P.  Molina, "HERRAMIENTAS PARA INVESTIGAR ¿Qué es el estado del arte?," Ciencia y Tecnología para la salud Visual y Ocular, no. 5, pp. 1 - 3, Julio - diciembre 2005.
