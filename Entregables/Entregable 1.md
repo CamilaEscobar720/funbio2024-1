@@ -17,6 +17,9 @@ En el Perú, la malaria se concentra principalmente en el departamento de Loreto
 
 # Diagrama de Ishikawa
 
+# Definición de la problemática
+La falta de un proceso automatizado, de bajo coste y eficaz para la diferenciación de las especies de Plasmodium con un microscopio en el Perú genera dificultades en la alerta temprana de la malaria y en la recopilación precisa de datos epidemiológicos.
+
 # Estado del arte - Evidencia Científica 
 El estado del arte se refiere a una técnica de investigación documental que facilita el análisis del conocimiento previamente desarrollado y registrado en textos en un campo específico. Al llevar a cabo un estado del arte, se fomenta la difusión de información, se estimula la búsqueda de conocimiento y se permite la comparación con otros cuerpos de conocimiento similares, lo que ofrece diversas perspectivas para entender el problema abordado. En resumen, proporciona múltiples enfoques para el estudio de una cuestión determinada. [6].
 
