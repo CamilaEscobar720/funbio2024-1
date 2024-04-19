@@ -42,6 +42,8 @@ Existen avances con respecto al desarrollo de un software de cuantificación y c
 
 La implementación de un software de identificación automatizado a un equipo médico que requiere de la intervención humana, plantea una solución que se centra en los siguientes puntos: optimización de tiempo, reducción importante sobre el error en la toma de datos por factor humano y diagnóstico de mayor calidad con equipo de bajo coste.
 
+
+
 # Referencias bibliográficas
 [1] Open Source Hardware Association. Definition. [Online]. Disponible: https://www.oshwa.org/definition/ 
 
