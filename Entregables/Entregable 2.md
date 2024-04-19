@@ -10,8 +10,8 @@
 ### Patentes existentes
 | Patente | Descripción |
 |-------------|-------------|
-| https://patents.google.com/patent/US10061972B2/en?q=(microscopy+malaria)&oq=microscopy+malaria
-|  |
+| https://patents.google.com/patent/US10061972B2/en?q=(microscopy+malaria)&oq=microscopy+malaria 
+| DSFFSFSFWF |
 |  https://patents.google.com/patent/US10255693B2/en?q=(
 | |
 | https://patents.google.com/patent/US20230274423A1/en?q=(   | |
