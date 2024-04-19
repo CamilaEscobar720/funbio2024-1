@@ -74,8 +74,8 @@ tiempo, reducción importante sobre el error en la toma de datos por factor huma
 Estos son solo algunos ejemplos y muchas otras marcas también ofrecen microscopios con capacidades avanzadas de control de temperatura. Cada marca y modelo puede tener características específicas que se adaptan a diferentes aplicaciones y necesidades de investigación.
 | Microscopio | Descripción |
 |-------------|-------------|
-| Axio Observer [![axio-observer-ls-product.jpg](https://i.postimg.cc/TY0FmZZS/axio-observer-ls-product.jpg)](https://postimg.cc/nCs3fwVY) | Pueden equiparse con sistemas de control de temperatura avanzados para estudios de células vivas y otras aplicaciones sensibles a la temperatura. [5]|
-| Nikon Eclipse Ti2 [![nikon-eclipse-ti2.jpg](https://i.postimg.cc/436SfqbB/nikon-eclipse-ti2.jpg)](https://postimg.cc/zLfjpdQg) | Ofrece capacidades de control de temperatura y otras características avanzadas para aplicaciones de investigación biológica y de materiales. [6]|
+| UC2 [![UC2.jpg](https://i.postimg.cc/TYQ3Bx6S/UC2.jpg)](https://postimg.cc/MvMwjhXb) | Microscopio óptico digital versátil y fácil de usar, diseñado para aplicaciones educativas y de laboratorio donde se requiere observación de muestras con alta calidad de imagen y la capacidad de documentar. [5]|
+| mesoSPIM [![mesoSPIM.png](https://i.postimg.cc/BQqJszZK/mesoSPIM.png)](https://postimg.cc/9zN6YJ7m) | Utiliza una iluminación selectiva,  es capaz de capturar imágenes tridimensionales de toda la muestra de forma rápida y eficiente. [6]|
 | Olympus IX83 [![olympus-microscopio.jpg](https://i.postimg.cc/j5ZnctPW/olympus-microscopio.jpg)](https://postimg.cc/ph5dXN0x) | Se equipa con sistemas de control de temperatura precisos para estudios en células vivas y otras aplicaciones de investigación. [7] |
 
 ## Mapa de Ishikawa
