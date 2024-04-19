@@ -9,11 +9,10 @@ Con respecto al uso del software libre, este promueve el aprendizaje pues otros 
 
 ## 2. Contexto de la Malaria en el Perú
 
-## 3. Métodos de diagnóstico de la Malaria
 
 # Diagrama de Ishikawa
 
-# Estado del arte comercial
+# Estado del arte cientifico 
 
 # Referencias bibliográficas
 [1] Open Source Hardware Association. Definition. [Online]. Disponible: https://www.oshwa.org/definition/ 
