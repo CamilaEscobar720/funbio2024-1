@@ -4,9 +4,9 @@
 
 Sin embargo, es fundamental que los términos de distribución cumplan con ciertos requerimientos. En primero lugar, el hardware deberá incluir la correcta documentación de los archivos propios del mismo ya sea físico o virtual; así como la clarificación sobre qué partes del diseño estarán siendo liberadas; asimismo, incluir software de código abierto si es necesario; por otro lado, la licencia deberá permitir modificaciones y distribución del hardware sin el requerimiento de regalías, sin embargo podría solicitar atribuciones; además, no deberá discriminar a ningún grupo social; finalmente, los derechos de la licencia serán otorgados a los redistribuidores. 
 
-##2.Contexto de la Malaria en el Perú
+## 2.Contexto de la Malaria en el Perú
 
-##3. Métodos de diagnóstico de la Malaria
+## 3. Métodos de diagnóstico de la Malaria
 
 #Referencias bibliográficas
 [1] Con respecto al uso del software libre, este promueve el aprendizaje pues otros pueden construir sobre estos para que pue da ser estudiado, usado y transformado según las necesidades o preferencias del modificador.
