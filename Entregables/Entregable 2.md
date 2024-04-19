@@ -2,6 +2,20 @@
 ## Contexto comercial
 ### Microscopios existentes
 ## Estado del arte comercial
+### Modelo interregional de Asia
+En regiones como Asia y África, donde la validación de un algoritmo capaz de detectar automáticamente los parásitos de la malaria y contar con precisión los leucocitos en la muestra de de gota gruesa es sumamente necesario. El proyecto citado se enfoca en la detección de la malaria en entornos con recursos limitados, mediante la creación de un microscopio portátil y un teléfono inteligente capaces de producir solo imágenes de baja calidad. Este método puede abordar la escasez de personal y equipos médicos. Asimismo, el modelo cuenta con el análisis de imágenes de baja calidad, lo cual es crucial para ayudar en los procesos de toma de decisiones en países subdesarrollados con recursos médicos limitados.
+
+Las principales contribuciones del proyecto son las siguientes:
+
+1. Desarrollo de algoritmos generalizados: Cuenta con un algoritmo versátil capaz de detectar parásitos de la malaria y contar glóbulos blancos en distintos conjuntos de datos de muestras de gota gruesa de Asia y África subsahariana.
+
+2. Aborda el problema de las imágenes borrosas resultantes de la interfaz entre la óptica de los teléfonos móviles y los microscopios mediante un algoritmo desarrollado específicamente para esta tarea. Asimismo, el modelo utiliza imágenes de baja calidad de Sudán en África subsahariana, asegurando su aplicabilidad en áreas con recursos limitados.
+
+2. Sistema portátil de detección de malaria: El sistema portátil integra un microscopio con un teléfono inteligente, con una interfaz fácil de usar. Se presenta un modelo de microscopio móvil que incorpora las funcionalidades de los microscopios convencionales, permitiendo un aumento de 1000x.
+
+3. Evaluación automática de la concentración de parásitos: Se ha creado una interfaz gráfica de usuario (IGU) eficiente y fácil de usar para la detección automática de la malaria, permitiendo a los usuarios remotos crear perfiles personales y cargar resultados de pruebas. El sistema desarrollado evalúa automáticamente la concentración de parásitos de la malaria en frotis de sangre fina y gruesa, mostrándolos en la interfaz. Este sistema agiliza el acceso de los médicos a los indicadores de diagnóstico, reduciendo los costes laborales y facilitando el almacenamiento local de imágenes microscópicas y datos de diagnóstico. En consecuencia, contribuye al establecimiento de una base de datos médica completa de pacientes y conserva valiosos recursos médicos. [4]
+
+
 | Microscopio | Descripción |
 |-------------|-------------|
 | UC2 [![UC2.jpg](https://i.postimg.cc/TYQ3Bx6S/UC2.jpg)](https://postimg.cc/MvMwjhXb) | Microscopio óptico digital versátil y fácil de usar, diseñado para aplicaciones educativas y de laboratorio donde se requiere observación de muestras con alta calidad de imagen y la capacidad de documentar. |
@@ -15,3 +29,5 @@
 | [![Patente3-1.jpg](https://i.postimg.cc/CxcKccrj/Patente3-1.jpg)](https://postimg.cc/bZ28J9hJ) [![Patente3-2.jpg](https://i.postimg.cc/fyYL5Z1L/Patente3-2.jpg)](https://postimg.cc/SYNkx0SF) | Método de captura de imágenes que se procesa con un algoritmo de aprendizaje automático especializado en identificar rasgos fenotípicos celulares relacionados con los rasgos genéticos, epigenéticos o genómicos de interés. El algoritmo se entrena utilizando un conjunto de datos de entrenamiento, valga la redundancia, que comprende datos de imágenes celulares y datos de secuenciación de ácidos nucleicos.|
 # Lista de requerimentos
 # Referencias bibliográficas
+[4]
+Y. Zhong et al., “Efficient Malaria Parasite Detection From Diverse Images of Thick Blood Smears for Cross-Regional Model Accuracy,” vol. 4. Institute of Electrical and Electronics Engineers (IEEE), p. 226, Nov. 23, 2023, doi: 10.1109/ojemb.2023.3328435.
