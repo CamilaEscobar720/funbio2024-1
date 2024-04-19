@@ -1,7 +1,5 @@
 # Estado del arte
-## Contexto comercial
 ### Microscopios existentes
-## Estado del arte comercial
 ### Modelo interregional de Asia
 En regiones como Asia y África, donde la validación de un algoritmo capaz de detectar automáticamente los parásitos de la malaria y contar con precisión los leucocitos en la muestra de de gota gruesa es sumamente necesario. El proyecto citado se enfoca en la detección de la malaria en entornos con recursos limitados, mediante la creación de un microscopio portátil y un teléfono inteligente capaces de producir solo imágenes de baja calidad. Este método puede abordar la escasez de personal y equipos médicos. Asimismo, el modelo cuenta con el análisis de imágenes de baja calidad, lo cual es crucial para ayudar en los procesos de toma de decisiones en países subdesarrollados con recursos médicos limitados.
 
@@ -18,9 +16,9 @@ Las principales contribuciones del proyecto son las siguientes:
 
 | Microscopio | Descripción |
 |-------------|-------------|
-| UC2 [![UC2.jpg](https://i.postimg.cc/TYQ3Bx6S/UC2.jpg)](https://postimg.cc/MvMwjhXb) | Microscopio óptico digital versátil y fácil de usar, diseñado para aplicaciones educativas y de laboratorio donde se requiere observación de muestras con alta calidad de imagen y la capacidad de documentar. |
-| mesoSPIM [![mesoSPIM.png](https://i.postimg.cc/BQqJszZK/mesoSPIM.png)](https://postimg.cc/9zN6YJ7m) | Utiliza una iluminación selectiva,  es capaz de capturar imágenes tridimensionales de toda la muestra de forma rápida y eficiente. |
-| SimpleZ [![SimpleZ.jpg](https://i.postimg.cc/vZZfKM42/SimpleZ.jpg)](https://postimg.cc/0bhz6Td7) | Basado en el **Estereo Microscopio DZ Stereo Microscope** y cámara digital de Euromex, guarda todas las imagenes un sólo archivo ZIP para poder ser procesadas posteriormente con aplicaciones. |
+| UC2 [![UC2.jpg](https://i.postimg.cc/TYQ3Bx6S/UC2.jpg)](https://postimg.cc/MvMwjhXb) | Microscopio óptico digital versátil y fácil de usar, diseñado para aplicaciones educativas y de laboratorio donde se requiere observación de muestras con alta calidad de imagen y la capacidad de documentar. [1]|
+| mesoSPIM [![mesoSPIM.png](https://i.postimg.cc/BQqJszZK/mesoSPIM.png)](https://postimg.cc/9zN6YJ7m) | Utiliza una iluminación selectiva,  es capaz de capturar imágenes tridimensionales de toda la muestra de forma rápida y eficiente.[2] |
+| SimpleZ [![SimpleZ.jpg](https://i.postimg.cc/vZZfKM42/SimpleZ.jpg)](https://postimg.cc/0bhz6Td7) | Basado en el **Estereo Microscopio DZ Stereo Microscope** y cámara digital de Euromex, guarda todas las imagenes un sólo archivo ZIP para poder ser procesadas posteriormente con aplicaciones.[3] |
 ### Patentes existentes
 | Patente | Descripción |
 |-------------|-------------|
@@ -30,5 +28,8 @@ Las principales contribuciones del proyecto son las siguientes:
 # Lista de requerimentos
 [![FUNCIONAL.jpg](https://i.postimg.cc/XNkY8tcD/FUNCIONAL.jpg)](https://postimg.cc/yWWK6QGF) [![NO-FUNCIONAL.jpg](https://i.postimg.cc/RFzv1T3B/NO-FUNCIONAL.jpg)](https://postimg.cc/cKXq0wM9)
 # Referencias bibliográficas
+[1] Maia Chagas A, Prieto-Godino LL, Arrenberg AB, Baden T (2017) The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans. PLoS Biol 15(7): e2002702. https://doi.org/10.1371/journal.pbio.2002702
+[2] F. Voight, D. Kirschenbaum, “The mesoSPIM initiative: open-source light-sheet microscopes for imaging cleared tissue”, Nature Methods, vol 16, pp. 1105 -1108, Noviembre 2019.
+[3] “SimpleZ - A.COLOMA Winkoms Open Microscopy”. A.COLOMA Winkoms Open Microscopy. Accedido el 19 de abril de 2024.  https://acolomamicroscopis.com/portal/estereo_microscopio_foco_extremo_deepfocus/
 [4]
 Y. Zhong et al., “Efficient Malaria Parasite Detection From Diverse Images of Thick Blood Smears for Cross-Regional Model Accuracy,” vol. 4. Institute of Electrical and Electronics Engineers (IEEE), p. 226, Nov. 23, 2023, doi: 10.1109/ojemb.2023.3328435.
