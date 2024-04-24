@@ -78,7 +78,7 @@ Estos son solo algunos ejemplos y muchas otras marcas también ofrecen microscop
 [![MAPAde-Ishikawa.jpg](https://i.postimg.cc/gjkkBtfS/MAPAde-Ishikawa.jpg)](https://postimg.cc/dkpYh6Qr)
 
 ## Definición de la problemática
-Los investigadores científicos cuentan con poca información y procesos limitantes sobre el efecto de las células cancerosas ante la regulación de temperatura.
+Falta de personal capacitado para para la diferenciación del plasmodium falciparum y plasmodiun vivax, con el uso de microscopio.
 
 ### Referencias bibliográficas
 [1] A. M. Chagas, L. L. Prieto-Godino, A. B. Arrenberg, and T. Baden, "The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behavior of zebrafish, Drosophila, and Caenorhabditis elegans," PLoS Biol., vol. 15, no. 7, pp. e2002702, Jul. 2017.
