@@ -5,3 +5,6 @@
 # Matriz morfológica
 [![morfologico.jpg](https://i.postimg.cc/130Z8xBP/morfologico.jpg)](https://postimg.cc/18zddjbY)
 # Tabla de valoración
+[![Tabla.jpg](https://i.postimg.cc/cC6nJBNy/Tabla.jpg)](https://postimg.cc/wR8vfJv0)
+## Conclusión
+En conclusión se optó por la opción 1
