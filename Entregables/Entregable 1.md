@@ -17,7 +17,7 @@ En el Perú, la malaria se concentra principalmente en el departamento de Loreto
 
 # Diagrama de Ishikawa
 
-[![Ishikawa.jpg](https://i.postimg.cc/3xMrr9tT/Ishikawa.jpg)](https://postimg.cc/563Wn5c7)
+[![Ishikawa.jpg](https://i.postimg.cc/YCBrkdSW/Ishikawa.jpg)](https://postimg.cc/TpQMJqgd)
 
 # Definición de la problemática
 La falta de un proceso automatizado, de bajo coste y eficaz para la diferenciación de las especies de Plasmodium con un microscopio en el Perú genera dificultades en la alerta temprana de la malaria y en la recopilación precisa de datos epidemiológicos.
