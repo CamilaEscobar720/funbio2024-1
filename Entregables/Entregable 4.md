@@ -2,7 +2,7 @@
 [![flypi.jpg](https://i.postimg.cc/85tZDx4K/flypi.jpg)](https://postimg.cc/Q9KQJ4R1)
 [![lego.jpg](https://i.postimg.cc/HkNHWPZL/lego.jpg)](https://postimg.cc/nXqN0Tt8)
 
-[![Boceto3.jpg](https://i.postimg.cc/Kzs213j2/Boceto3.jpg)](https://postimg.cc/nj755zqR)
+[![Boceto3-1.jpg](https://i.postimg.cc/WbD5LWk8/Boceto3-1.jpg)](https://postimg.cc/gnWV3K4L)
 
 # Matrices de Valoración
 ## 1. Evaluación Técnica
