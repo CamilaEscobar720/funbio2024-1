@@ -10,4 +10,6 @@
 ## 2. Evaluación Económica
 [![evaluacionte.jpg](https://i.postimg.cc/PfpbVLZv/evaluacionte.jpg)](https://postimg.cc/14SNf3vy)
 ## 3. Proyecto Óptimo
+[![gr-fica.jpg](https://i.postimg.cc/zGyZQFzY/gr-fica.jpg)](https://postimg.cc/mPW5zM1m)
+
 En conclusión, el modelo OpenHardware del microscopio OpenFlexure ofrece una mayor practicidad y un diseño bien adaptado para la automatización de nuestro proyecto. Su estructura modular y la posibilidad de utilizar componentes modificables, como el objetivo del lente, lo hacen adecuado para aplicaciones específicas, como el diagnóstico de malaria. Los componentes a usar se encuentran disponibles en el mercado. Es posible adaptarlo a diferentes entornos. La fabricación del microscopio es apta y su diseño mejora la accesibilidad y la facilidad de uso. En general, este modelo ofrece un equilibrio entre funcionalidad, calidad y costo.
