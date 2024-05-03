@@ -8,6 +8,7 @@
 [![Tabla.jpg](https://i.postimg.cc/cC6nJBNy/Tabla.jpg)](https://postimg.cc/wR8vfJv0)
 ## Conclusión
 En conclusión se optó por la opción 1, se fundamentará la razón de la elección:
+
 -La cámara, en comparación a las demás opciones, presenta un tamaño reducido que facilita la instalación en el módulo del circuito integrado.
 
 -El microprocesador Raspberry Pi 3 en contraste con sus modelos posteriores, presenta un rendimiento relativamente menor; sin embargo, la capacidad del procesador que viene instalado (ARM-Cortex-A53) satisface nuestros requerimientos. Permite conectividad Wi-Fi y Bluetooth, además de disponibilidad de varios tipos de puertos (USB,HDMI,ETHERNET,Audio,Alimentación USB,Cámara(CSI)).
