@@ -1,5 +1,7 @@
 # Bocetos
 
+[![lego.jpg](https://i.postimg.cc/HkNHWPZL/lego.jpg)](https://postimg.cc/nXqN0Tt8)
+
 [![Boceto3.jpg](https://i.postimg.cc/Kzs213j2/Boceto3.jpg)](https://postimg.cc/nj755zqR)
 
 # Matrices de Valoración
