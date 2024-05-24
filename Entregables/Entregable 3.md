@@ -10,6 +10,14 @@
 - MOSTRAR: Pantalla que muestre los resultados generales de las imágenes procesadas
 # Tabla de valoración
 [![Tabla.jpg](https://i.postimg.cc/cC6nJBNy/Tabla.jpg)](https://postimg.cc/wR8vfJv0)
+- FACILIDAD DE USO:
+- PORTABILIDAD: 
+- VIABILIDAD:
+- TAMAÑO:
+- SEGURIDAD:
+- NIVEL DE INNOVACION
+- DISPONIBILIDAD DE REPUESTO:
+- 
 ## Conclusión
 En conclusión se optó por la opción 1, se fundamentará la razón de la elección:
 
