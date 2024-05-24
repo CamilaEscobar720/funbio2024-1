@@ -7,5 +7,5 @@
 ## Carcasa LCD
 ![carcasa LCD](https://drive.google.com/uc?id=1xlZBJTXNy5BpKAiDBXK3eE52OkXRoHFO)
 ## Microscopio
-![microscopio](https://drive.google.com/uc?id=1-lWX5oZ7r4nBCLdNw8PlG9lZXsAYiK4_)
+![microscopio](https://drive.google.com/file/d/1WbMklQxdXLdehOlprh6A5c0WQ1TmM5Wh/view?usp=sharing)
 
