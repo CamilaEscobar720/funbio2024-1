@@ -4,6 +4,10 @@
 [![EFunciones2.jpg](https://i.postimg.cc/ncH4yBWk/EFunciones2.jpg)](https://postimg.cc/py658hRh)
 # Matriz morfológica
 [![morfologico.jpg](https://i.postimg.cc/130Z8xBP/morfologico.jpg)](https://postimg.cc/18zddjbY)
+- DETECTAR: La captura de las imágenes de la muestra de la Malaria
+- PROCESAR: Análisis de las imágenes detectadas
+- CONTROL PERIFÉRICO: Control de los movimientos de los motores
+- MOSTRAR: Pantalla que muestre los resultados generales de las imágenes procesadas
 # Tabla de valoración
 [![Tabla.jpg](https://i.postimg.cc/cC6nJBNy/Tabla.jpg)](https://postimg.cc/wR8vfJv0)
 ## Conclusión
