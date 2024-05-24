@@ -1,7 +1,7 @@
 # Bocetos
 [![Flypi1-2.png](https://i.postimg.cc/rySd19g3/Flypi1-2.png)](https://postimg.cc/gr2kd8CH)
 
-[![delta.png](https://drive.google.com/file/d/1hVp-c4qrb1HNSVbInH1cVYp6YKwIeSVW/view?usp=sharing)](https://drive.google.com/file/d/1hVp-c4qrb1HNSVbInH1cVYp6YKwIeSVW/view?usp=sharing)
+[![Delta.png](https://i.postimg.cc/BZTNTLhm/Delta.png)](https://postimg.cc/DmzqFZ3G)
 
 [![Boceto3-1.jpg](https://i.postimg.cc/WbD5LWk8/Boceto3-1.jpg)](https://postimg.cc/gnWV3K4L)
 
