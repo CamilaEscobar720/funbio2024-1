@@ -6,4 +6,6 @@
 # MODELADO 3D DE LOS COMPONENTES
 ## Carcasa LCD
 ![carcasa LCD](https://drive.google.com/uc?id=1xlZBJTXNy5BpKAiDBXK3eE52OkXRoHFO)
+## Microscopio
+![microscopio](https://drive.google.com/uc?id=1-lWX5oZ7r4nBCLdNw8PlG9lZXsAYiK4_)
 
