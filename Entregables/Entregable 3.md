@@ -10,14 +10,14 @@
 - MOSTRAR: Pantalla que muestre los resultados generales de las imágenes procesadas
 # Tabla de valoración
 [![Tabla.jpg](https://i.postimg.cc/cC6nJBNy/Tabla.jpg)](https://postimg.cc/wR8vfJv0)
-- FACILIDAD DE USO:
-- PORTABILIDAD: 
-- VIABILIDAD:
-- TAMAÑO:
-- SEGURIDAD:
-- NIVEL DE INNOVACION
-- DISPONIBILIDAD DE REPUESTO:
-- 
+- FACILIDAD DE USO: Intuitivo y fácil de usar
+- PORTABILIDAD: Fácil de transportar
+- VIABILIDAD: Rentable a largo plazo
+- TAMAÑO: Compacto y de dimensiones adecuadas
+- SEGURIDAD: Confiable para el operador
+- NIVEL DE INNOVACION: Presenta avances tecnológicos y originalidad
+- DISPONIBILIDAD DE REPUESTO: Piezas fáciles de reemplazar
+- POSIBILIDAD DE AUTOMATIZACION: Implementación de procesos automáticos
 ## Conclusión
 En conclusión se optó por la opción 1, se fundamentará la razón de la elección:
 
