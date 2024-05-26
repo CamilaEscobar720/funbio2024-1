@@ -8,7 +8,7 @@
 # Matrices de Valoración
 ## 1. Evaluación Técnica
 [![evaluaciontecnica.jpg](https://i.postimg.cc/nzQGnQ47/evaluaciontecnica.jpg)](https://postimg.cc/8JN6HcnP)
-- Función: Capacidad de un objeto para cumplir con sus funciones previstas de manera efectiva y eficiente.
+- **Función**: Capacidad de un objeto para cumplir con sus funciones previstas de manera efectiva y eficiente.
 - 
 ## 2. Evaluación Económica
 [![evaluacioneconomica.jpg](https://i.postimg.cc/Jzv9xjzH/evaluacioneconomica.jpg)](https://postimg.cc/rDGnF0Wq)
