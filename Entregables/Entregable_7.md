@@ -2,6 +2,10 @@
 ## VERIFICACIÓN DE DISEÑO HARDWARE DEL MICROSCOPIO
 [![Tabla1.jpg](https://i.postimg.cc/PrhWpNCk/Tabla1.jpg)](https://postimg.cc/LhCYG9ky)
 [![Tabla2.jpg](https://i.postimg.cc/YCTjFydm/Tabla2.jpg)](https://postimg.cc/sM9VdKdV)
+## Imppresiones Realizadas 
+[![engranajes.jpg](https://i.postimg.cc/xdkxwDHw/engranajes.jpg)](https://postimg.cc/bGh9n5mg)
+[![ENgranajes-chiuitos.jpg](https://i.postimg.cc/kGwvVfKN/ENgranajes-chiuitos.jpg)](https://postimg.cc/SY2M3LZj)
+[![Clip-de-muestra.jpg](https://i.postimg.cc/mZSw62Jc/Clip-de-muestra.jpg)](https://postimg.cc/BtXHjsqs)
 
 [![Edgeimpulse.jpg](https://i.postimg.cc/SQJZmgnz/Edgeimpulse.jpg)](https://postimg.cc/1410Hcc9)
 
