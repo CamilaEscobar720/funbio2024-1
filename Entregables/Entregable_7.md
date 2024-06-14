@@ -5,5 +5,5 @@
 
 [![Edgeimpulse.jpg](https://i.postimg.cc/SQJZmgnz/Edgeimpulse.jpg)](https://postimg.cc/1410Hcc9)
 
-### Retos y Limitaciones del Machine Learning
+## Retos y Limitaciones del Machine Learning
 [![Retos.jpg](https://i.postimg.cc/JnGCBnVQ/Retos.jpg)](https://postimg.cc/G8w5WbpB)
