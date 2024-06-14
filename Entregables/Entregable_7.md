@@ -4,6 +4,7 @@
 [![Tabla2.jpg](https://i.postimg.cc/YCTjFydm/Tabla2.jpg)](https://postimg.cc/sM9VdKdV)
 ## Imppresiones Realizadas 
 [![Cmponentes-Impresos.jpg](https://i.postimg.cc/15vZPSnX/Cmponentes-Impresos.jpg)](https://postimg.cc/F7k6g2xX)
+<img src="https://i.postimg.cc/xTLVJm4k/Piezas-Impesas-14-06-24.jpg" alt="Descripción de la imagen" width="400"/>
 
 [![engranajes.jpg](https://i.postimg.cc/xdkxwDHw/engranajes.jpg)](https://postimg.cc/bGh9n5mg)
 [![ENgranajes-chiuitos.jpg](https://i.postimg.cc/kGwvVfKN/ENgranajes-chiuitos.jpg)](https://postimg.cc/SY2M3LZj)
