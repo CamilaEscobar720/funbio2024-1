@@ -7,6 +7,7 @@
 
 [![engranajes.jpg](https://i.postimg.cc/xdkxwDHw/engranajes.jpg)](https://postimg.cc/bGh9n5mg)
 [![ENgranajes-chiuitos.jpg](https://i.postimg.cc/kGwvVfKN/ENgranajes-chiuitos.jpg)](https://postimg.cc/SY2M3LZj)
+[![M-dulo-ptico.jpg](https://i.postimg.cc/0jQ1KXhP/M-dulo-ptico.jpg)](https://postimg.cc/cgVbVhsb)
 [![Clip-de-muestra.jpg](https://i.postimg.cc/mZSw62Jc/Clip-de-muestra.jpg)](https://postimg.cc/BtXHjsqs)
 
 [![Edgeimpulse.jpg](https://i.postimg.cc/SQJZmgnz/Edgeimpulse.jpg)](https://postimg.cc/1410Hcc9)
