@@ -1,2 +1,1 @@
-[Ver el PDF en Google Drive](https://drive.google.com/file/d/1Hylg_a_Xa1mnPDIEbKeEpM_aSXcAkByA/view)
-![1] (https://drive.google.com/file/d/1Hylg_a_Xa1mnPDIEbKeEpM_aSXcAkByA/view?usp=sharing)
+![1](https://drive.google.com/file/d/1yOOg6C48aE19VpM89stWiAcjmHirhJ55/view?usp=drive_link))
